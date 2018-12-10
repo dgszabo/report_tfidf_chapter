@@ -1,0 +1,441 @@
+42
+
+ENVIRONMENTAL REPORT
+
+DFDS ANNUAL REPORT 2009
+
+ENVIRONMENTAL
+REPORT – CSR
+
+ENVIRONMENTAL POLICY
+n
+
+n
+
+n
+
+We are committed to improving our operations and
+activities on an ongoing basis in order to reduce our
+energy consumption and our impact on the environment.
+We will regularly record and analyse our energy consumption and environmental impact, and disseminate
+knowledge of company environmental policy among
+our staff in order to ensure a high degree of awareness
+about environmental issues.
+We will continuously develop and extend our technical
+expertise in order to ensure constant progress towards
+more sustainable operations.
+
+Most of DFDS’ impact on the surrounding environment is associated
+with the operation of ships, and therefore the environmental work is
+focused on reducing emissions, as well as developing and implementing
+new environmental technology. The marine environment is protected
+by national and international laws and regulations, and DFDS respects
+and supports the continued development of rules designed to make
+shipping more sustainable in the future.
+REDUCING EMISSIONS
+
+DFDS is focused on reducing emissions of harmful substances from
+ships’ engines using bunker. In particular, the work is directed at cutting
+emissions of CO2, NOx, SOx and particles into the atmosphere.
+CO2: In 2007, DFDS set a target of a 10 % reduction (adjusted
+for capacity changes) in emissions of CO2 over a five-year period.
+Bunker consumption and emissions are measured continuously on
+all ships, and the results are distributed throughout the fleet. In 2009,
+bunker consumption was approximately 13 % lower than in 2008.
+However, most of this decline reflects the reduction in the number
+of sailings, as capacity has been adjusted to lower demand in the
+transport market. In order to distinguish the streamlining of bunker
+consumption from fluctuations in capacity, consumption, and therefore
+emissions, are quantified per transport unit.
+Measured per transport unit, bunker consumption and emissions
+in 2009 were reduced by 2.7 % compared to 2008 and by 4.5 % compared to 2007. DFDS is therefore well on its way towards the goal of
+a 10 % reduction in CO2 emissions over five years.
+The reductions in emissions can be attributed to DFDS’ bunkersaving programme, one element of which is cutting speed – a key factor in reducing consumption and emissions. To this end, projects have
+been implemented to ensure faster transhipment in ports reducing
+port time and allowing sailing time to rise. Other initiatives include op-
+
+AVERAGE CONSUMPTION OF THE TOTAL FLEET
+G/GROSS TONNAGE/NAUTICAL MILE
+(g/GT/Nm)
+6,3
+6,2
+6,1
+6,0
+5,9
+5,8
+5,7
+5,6
+5,5
+Q1
+
+Q2
+Q3
+2007
+
+Q4
+
+Q1
+
+Q2
+Q3
+2008
+
+Q4
+
+Q1
+
+Q2
+Q3
+2009
+
+Q4
+
+timising engine power and efficiency; better voyage planning; utilisation
+of waste heat; and frequent hull cleanings to reduce water resistance.
+Information and motivation
+Another major factor in this work is motivating staff to contribute
+to energy savings. In order to increase motivation, information is
+distributed about the environmental policy and objectives, and its
+emission-reduction initiatives. This is done on a regular basis through
+internal communications that prioritise environmental issues, as well
+as through special bulletins about environmental initiatives. A prize of
+DKK 50,000 is awarded each quarter to the ship’s crew whose efforts
+have resulted in the largest reductions.
+Consolidation around larger ships
+The most effective way of reducing energy consumption, and therefore CO2 emissions, is fleet renewal. Modern ships’ engines utilise
+energy more efficiently, and carry more freight using fewer but larger
+ships. In 2009, the ro-ro ships Tor Ficaria, Tor Begonia and Tor Freesia
+were each extended by 30 metres, which increased freight capacity
+from approximately 3,800 lanemetres to approximately 4,600 lane
+metres. Despite a capacity increase of over 20 %, the ships’ energy
+consumption only increased marginally, while CO2 emissions were
+reduced significantly per lanemetre.
+Sulphur (SOx): Ships’ emissions of sulphur are dependent on the
+amount of oil burned, and the sulphur content of the fuel oil.
+In 2010, two directives issued by the IMO and the EU regarding the
+use of low-sulphur bunker come into force in the Baltic Sea and the
+North Sea, both of which are designated as ECAs (Emission Control
+Areas). One directive came into force in early 2010 limiting the sulphur
+content of bunker to a maximum of 0.1 % while in port. The second
+directive comes into force in early July, and relates to a reduction of
+the sulphur content in bunker from 1.5 % to 1.0 % for shipping in the
+
+DFDS ANNUAL REPORT 2009
+
+ENVIRONMENTAL REPORT
+
+43
+
+COMPARISON OF BUNKER CONSUMPTION PER UNIT
+FOR OLDER AND MODERN/LARGER SHIPS
+
+SHIP
+
+YEAR BUILT
+
+LENGTH,
+METRES
+
+DEADWEIGHT,
+TONS
+
+LANE
+METRES
+
+CONSUMPTION
+AT 18 KNOTS,
+G/NM/LM
+
+1977
+1998
+2003
+
+169
+198
+200
+
+9,700
+11,080
+10,070
+
+1,870
+2,770
+3,830
+
+58
+48
+33
+
+2006
+
+230
+
+14,600
+
+4,650
+
+29
+
+Tor Baltica
+Tor Selandia
+Tor Magnolia
+Tor Ficaria
+(extended)
+
+Baltic Sea and the North Sea. In the longer term, rules will be introduced that reduce sulphur content in bunker to 0.1 % in 2015.
+New environmental technology
+Technologies are also being developed to reduce the sulphur content of bunker on board ships. DFDS is collaborating with Aalborg
+Industries and MAN Diesel to develop a so-called “scrubber” that can
+remove 98 % of sulphur and 70 % of the particles from emissions. In
+2010, one such scrubber, which consists of approximately 30 tons of
+heavy plant, will be tested as part of the exhaust system on Tor Ficaria.
+If it lives up to expectations, the scrubber will be a significant tool
+for reducing emissions of sulphur and particles, particularly in urban
+areas. The method may also be an alternative to using bunker with
+low sulphur content, as the scrubber is expected to be able to reduce
+sulphur emissions to at least the same level.
+NOx: Ships’ engines expel varying degrees of NOx (nitrogen oxides)
+from combustion. These emissions are caused by the combustion temperature, and newer engines are designed to operate at temperatures
+that reduce NOx. Emissions are therefore reduced on modern ships
+like Tor Fionia, Tor Jutlandia, Tor Corona and Tor Hafnia.
+NOx emissions are a particular problem in and around ports.
+Ships calling at terminals close to urban and residential areas in Oslo
+and Copenhagen therefore use catalytic converters to purify smoke
+from their auxiliary engines, which produce power for onboard
+consumption.
+Another way to reduce emissions of harmful substances while
+in port is to use land-based sources of power. This is only possible
+in ports that provide power through special coupling points on the
+quay. This possibility is currently being assessed, e.g. in Gothenburg, in
+collaboration with the port company. At the same time, several options are being evaluated for environmentally friendly onboard power
+generation.
+CERTIFICATION
+
+DFDS has subsidiaries in several countries in Northern Europe, and
+does not currently have joint environmental certification for the whole
+Group, but various forms of certification in the various companies.
+DFDS has therefore decided to attain joint ISO 14001 environmental
+certification. The process has already started on the ro-ro routes from
+Gothenburg to Great Britain, Norway and the Continent. Once this
+work has been completed, the certification will be gradually extended
+to other parts of the Group.
+ENVIRONMENTALLY FRIENDLY SCRAP
+
+It is DFDS’ policy to only sell ships for scrap when it can be guaranteed that the scrapping will be in accordance with national and international legislation, and in accordance with the intentions of the Hong
+Kong Convention agreed under the auspices of the IMO in October
+
+2009. The latter is an as yet unratified international regulatory framework designed to ensure responsible scrapping of ships. It is expected
+to come into force in 2013. DFDS supports this convention and other
+initiatives that, in the meantime, ensure that ships are scrapped in a
+responsible fashion in relation to both the surrounding environment
+and the working environment. This policy formed the basis for the sale
+in early 2010 of a ro-ro ship, Tor Anglia, for scrap to the environmentally certified Jiangmen Yinhu shipyard in China.
+BATTERY-POWERED ECO-FRIENDLY CANAL BOATS
+
+DFDS’ subsidiary DFDS Canal Tours operates tour boats in the Port
+of Copenhagen and the canals in the centre of the city. The engine
+noise and exhaust fumes of the boats place a strain on the surrounding urban environment, and DFDS has decided to develop and deploy
+a battery-powered boat, which is recharged at night when the proportion of environmentally friendly produced electricity is highest. The
+first of these emission- and noise-free boats has been delivered and
+will be operational from the start of the 2010 season. If the el-boat
+lives up to expectations, ships of this type are expected gradually to
+replace the existing boats.
+OTHER PRIORITIES
+
+Work is also being systematically carried out on the processing of
+waste and sewage from ships under the rules of the countries in
+which they dock. In addition, further work is being done to reduce
+noise during calls and stays in port.
+
+44
+
+HR REPORT
+
+DFDS ANNUAL REPORT 2009
+
+HUMAN RESOURCES – CSR
+
+Employees’ skills, commitment and wellbeing are crucial to DFDS’
+success. The development of human resources and welfare at work
+are, therefore, important strategic foundations for the company.
+
+“It is the people that distinguish the successful company
+from the less successful one. Our professional and social skills,
+along with a constant focus on business results, are what
+makes the difference.”
+Henrik Holck, Executive Vice President, HR
+MANAGEMENT DEVELOPMENT
+
+DFDS’ management programme focuses on developing the individual
+managers’ skills through an internal training program called ZOOM.
+The programme was developed by Corporate HR and tailored to suit
+both the composition of the management team and DFDS’ general
+situation. ZOOM consists of two modules. The first is an intensive
+course of theory and practical teaching that focuses on the role of
+the manager, communication, DFDS’ strategy for staff development,
+and exchanges of knowledge and experience between different areas.
+The programme also includes input from and dialogue with Group
+Management, including the CEO and HR director, about the company’s goals.
+The second module consists of practical training. It is important
+for this programme that each team comprises leaders from various
+fields, including land- and sea-based positions, as well as from the different Northern European countries that make up DFDS’ geographic
+business area. The purpose of the modules is to equip managers with
+a greater knowledge and understanding not only of the professional
+work environment, but also of its social and psychological aspects,
+their own role as managers, and their colleagues’ situation. In addition,
+a number of targets and opportunities serve to develop the individual
+employee in relation to DFDS’ goals and strategy.
+
+“DFDS managers have to generate job satisfaction. Great job
+satisfaction generates better results and even greater success…”
+Henrik Holck, Executive Vice President, HR
+
+In 2009, approximately 115 managers participated in the ZOOM
+course, split almost equally between managers of sea-based and landbased positions. Efforts were made to ensure representation from all
+functions, including managers from the deck and engine crews. In 2010,
+120 managers are expected to take part, an increasing proportion of
+whom will be from outside Denmark.
+
+EMPLOYEE WELLBEING
+
+An important goal for DFDS is that employees thrive in their jobs, and
+that the individual employee experiences that DFDS is a workplace
+that offers good conditions and opportunities for personal development. In co-operation with external suppliers, extensive studies are
+conducted at regular intervals to monitor staff wellbeing. In 2009, about
+75 % of staff took part in the survey, the results of which will be used as
+a basis for further work to improve and develop DFDS as a workplace.
+The study was conducted during the economic crisis of 2009, after
+changing market conditions necessitated reductions in staffing levels.
+Notwithstanding this difficult background, the survey results showed a
+generally high level of job satisfaction that was only marginally below
+the level for 2008. In general, satisfaction and motivation were high,
+scoring 5.2 (compared to 5.3 in 2008) out of a maximum 7. Loyalty
+to DFDS scored 5.9 out of a maximum 7, which was on a par with
+2008. Satisfaction with immediate line managers was generally high
+(5.7 against 5.8 in 2008), although the study revealed the need for
+improving efforts to increase individuals’ opportunities for professional
+and personal development.
+Further development
+The survey from 2009 provides the basis for the further development of DFDS as a workplace in 2010. In addition to identifying areas
+for improvement at Group level, the study also provides results for
+individual business areas and departments. These results are communicated by the management of the business areas to the individual
+departments for information, discussion and follow-up. Each department then submits specific development plans for areas identified as
+in need of change or development. A follow-up wellbeing survey will
+be conducted in autumn 2011.
+Other courses
+As well as the management-development programme, a number of
+statutory and safety-training courses are held each year for staff at sea,
+as well as focus on provision of relevant technical-training courses in
+some departments.
+Employee development interviews
+All employees participate in development review meetings with their
+immediate line manager once a year. These reviews focus on the
+individual employee’s situation, including the relationship between their
+job expectations, their skills and their actual duties. The interview also
+covers the employee’s performance in relation to the demands of the
+job and their jointly agreed goals for the year.
+
+DFDS ANNUAL REPORT 2009
+
+HR REPORT
+
+45
+
+RECRUITMENT
+
+INFORMATION
+
+New employees to DFDS are often recruited locally, partly through
+recruitment agencies in the various countries, partly via the company’s
+website. Other increasingly popular recruitment channels include educational institutions and social networking websites, e.g. Facebook.
+In addition to this targeted recruitment of employees, DFDS is
+part of Blue Denmark, a joint maritime industry project under the
+auspices of the Danish Shipowners’ Association. Blue Denmark aims to
+highlight the many good jobs, management positions and development
+opportunities in the maritime industry. Its target audience primarily
+consists of young people.
+
+DFDS strives to provide employees and managers with quick, open,
+clear and credible communication about its development strategy,
+especially with regard to changes that may affect individual employees
+and the reasons for those changes. The goal is for changes and new
+initiatives to be communicated directly to employees via internal
+media or meetings before the news is broken by external media
+or spread by rumour.
+In late 2009, DFDS concluded an agreement, which is expected
+to be approved in Q2 2010, to acquire Norfolkline. Making optimal use
+of both organisations’ strengths is a prerequisite for the future
+success of the combined entity. The merger of the two organisations
+will therefore entail a significant focus on HR in order to ensure
+continuous, transparent and credible internal communication about
+the integration process for both Norfolkline and DFDS staff.
+
+TRAINING OF APPRENTICES AND TRAINEES
+
+Every year, DFDS trains apprentices in economics, as well as shipping,
+administration and travel, and this is an important investment in our
+future employees. These two-year programmes attract large numbers
+of applications, and include practical experience and international cooperation. Shipping apprentices, for example, spend a year at offices
+abroad, where they gain personal experience of other countries’ labour
+markets and business environments within a secure framework.
+In addition, DFDS acts as a work-placement venue, and offers
+many opportunities, both on land and on board, for young people
+to train as ship’s officers, cooks, waiters, etc.
+
+REVENUE PER EMPLOYEE
+(ADJUSTED FOR BUNKER SURCHARGE)
+(DKK MILLION)
+2,0
+
+DISTRIBUTION OF EMPLOYEES
+ON LAND AND SEA
+(NO. OF EMPLOYEES)
+5.000
+
+1,8
+4.000
+
+1,6
+1,4
+
+3.000
+
+1,2
+2.000
+
+1,0
+0,8
+
+1.000
+
+0,4
+
+LAND
+
+SEA
+
+2009
+
+2008
+
+2007
+
+2009
+
+2008
+
+0
+2007
+
+0,0
+
+SOCIAL INITIATIVES
+
+DFDS has entered into collaboration with “High Five” in order to
+create job opportunities for young people with a criminal record.
+The aim is to give these disadvantaged young people the chance
+to work in a real job with long-term potential. In 2009, a total of
+12 former young offenders were employed on ships under this
+programme and the results were positive.
+
+

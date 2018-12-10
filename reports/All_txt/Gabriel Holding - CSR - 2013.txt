@@ -1,0 +1,2026 @@
+CSR &
+­Environmental
+­Report
+2012/13
+Gabriel A/S
+
+Company information
+
+Company:	
+Gabriel A/S
+	
+Hjulmagervej 55
+	
+9000 Aalborg
+	
+Reg. no. 176574
+	
+VAT no. 12721307
+	
+Phone: +45 9630 3100
+	
+Fax: +45 9813 2544
+	www.gabriel.dk
+	
+E-mail: mail@gabriel.dk
+Group relationships:	
+
+Gabriel A/S is a wholly owned subsidiary of the listed company Gabriel Holding A/S.
+
+Sector:	
+
+Textile industry.
+
+Principal activities:	
+
+Production of furniture fabrics including the processes of dyeing and finishing.
+
+Legislation:	Gabriel’s activities in Denmark are covered by environmental legislation and
+regulations established by the City of Aalborg.
+Supervisory authority:	
+
+City of Aalborg.
+
+Financial year:	
+
+01.10.12 - 30.09.13
+
+Number of employees:	
+
+106
+
+External auditor and accredited
+environmental verification:	
+DNV/DS Certificering Accreditation no. 6003.
+NACE code:	
+
+13.92 – Manufacture of made-up textile articles except apparel.
+
+The CSR and Environmental Report for 2013/2014 will be published in December 2014.
+
+2
+
+CSR & Environmental Report 2012/13
+
+
+
+Contents
+	 02	
+
+Company information
+
+	 04	
+
+Management’s report
+
+	 05	
+
+CSR and environmental policies
+
+	 06	
+
+From raw material to finished product
+
+	 08	
+
+Materials and resources	
+
+	 10	
+
+Responsible production and supplier management
+
+	 12	
+
+Environmental labelling and certifications
+
+	 14	
+
+Development and innovation
+
+	 15 	 Working environment
+	 16	
+
+Gabriel Erhvervspark
+
+	 17 	 Consolidated data
+	 18 	 Notes: Measuring methods and basis of calculations
+	 19	
+
+Auditor’s certificate
+
+3
+
+Management’s report
+
+The Corporate Social Responsibility (CSR) work is a natural part
+of the Group’s work. To Gabriel, CSR means that the company
+takes responsibility for adding value which contributes directly
+and indirectly to a positive development in society. The company
+endorses the principles specified in the UN Global Compact and
+puts a determined effort into the company’s CSR and environmental policies and activities.
+Being a responsible company is central to the way Gabriel is run
+and is a permanent point on the strategic agenda. CSR is not a
+transient fashion but a strategic driver on a par with product development, sales and other activities. Gabriel assumes an extraordinary responsibility for how products are produced, including
+in those areas where the group is not the owner.
+Gabriel’s environmental work is seen as a part of CSR. This report
+deals with both perspectives and it is based on the matters judged
+to be most important. The purpose of the report is to share information on Gabriel’s CSR and environmental work with the
+company’s stakeholders. It is the ambition to share knowledge
+on the company’s affairs and to commit to continuous improvements by communicating goals, activities and achieved results
+to the public.
+
+Gabriel played an active role in the development of the next generation EU Ecolabel to ensure widespread use of the label. In addition, the company was involved in a number of national projects
+focusing on product life cycle and closed-loop resource cycles.
+The CSR strategy is developed continuously internally and it is
+increasingly implemented in close partnership with the company’s
+main customers, where strong emphasis is also attached to weighing the products’ CSR and environmental impacts.
+In the detailed perspective, an increasing focus on the products’
+chemical content is seen as new demands regarding chemicals
+emerge regularly from customers and the public in general.
+Gabriel supports these new points of attention and finds that
+the years of environmental work make it a manageable task to
+handle these new requirements and thus make it easy for the
+customer to choose the best alternative.
+The following pages describe the company’s objective, specific
+policies in the CSR and environmental area, concrete effects of
+implemented activities and the continuous work on the value
+chains of which the company is a part. A detailed review of Gabriel
+A/S’s profile is available on the company’s website, where the
+latest financial statements can also be found.
+
+The main headlines in the CSR and environmental report for the
+2012/13 financial year describe the company’s focus in the bigpicture perspective as well as the detailed perspective.
+In the big-picture perspective, the companies ZenXit A/S, UAB
+FurnMaster and Gabriel GmbH were established during the year.
+At UAB FurnMaster a number of improvements were carried out
+to the interior and exterior environments of the leased building.
+
+Aalborg, 6 November 2013
+
+Anders Hedegaard Petersen
+CEO
+
+4
+
+Kurt Nedergaard
+Business Manager Quality, Environment and Production
+
+CSR & Environmental Report 2012/13
+
+
+
+CSR and environmental policies
+
+Objective for quality, environment and CSR
+Services provided by Gabriel must correspond accurately to customer needs and expectations. The company’s production
+and ­distribution must proceed with due respect for the need to ensure a continuing reduction in resource consumption and
+emissions which might have an impact on the environment. Gabriel’s position as a quality and environmentally conscious
+company is evidenced by its certification under ISO 9001, ISO 14001 and the EMAS Eco-Management and Audit Scheme.
+
+The objective is met via a set of policies. These policies apply
+to all activities and they also influence how Gabriel works with
+others in the value chain.
+
+∙∙ Cleaner technology and environmental improvements are
+regularly introduced into the supply chains with due respect
+for the technical and financial consequences, and pollution
+must be prevented.
+
+CSR policy
+
+∙∙ Gabriel conducts an open and close dialogue with the authorities on environmental requirements. The company has a duty to
+respect relevant legislation and relevant statutory requirements
+in the area of the environment as well as other provisions to
+which the company has committed itself.
+
+Gabriel endorses the principles in the UN Global Compact and
+focuses on the following areas:
+∙∙ Gabriel’s products and services are developed and manufactured
+with consideration for the safety and health of users. Gabriel
+strives in the production process to minimise environmental
+impacts, and animal welfare is respected.
+∙∙ A good working environment is ensured throughout the supply
+chain, and country-specific laws and Gabriel’s own requirements
+are complied with. These requirements comprise specific technical
+specifications and matters specified in Gabriel’s Code of Conduct.
+∙∙ Continuous skills and job development for all employees are
+accorded a high priority.
+∙∙ Gabriel wants to support students by providing internships,
+and the company participates in research projects which benefit
+both the students and the company.
+∙∙ Gabriel communicates the company’s CSR activities openly
+and supports the propagation of CSR as a managerial activity.
+
+Environmental policy
+The environmental management system covers all activities at
+Gabriel and all products and services which the company supplies:
+∙∙ The company’s general objectives are documented in a business plan prepared once a year for the period 1.10 to 30.9. The
+business plan covers environmental goals which, together with
+responsibility and competence, must be known by all employees.
+∙∙ Energy has an important environmental impact, and energy
+management is an integral part of Gabriel’s environmental management. Energy management covers supply systems with
+significant energy consumption. Environmental goals and the
+environmental action programme must include energy considerations and ensure ongoing improvements in energy consumption.
+
+∙∙ Gabriel uses product labelling with the EU Ecolabel and the OekoTex health label. These schemes enjoy a high level of trust from
+consumers, and awareness of the schemes is also increasing.
+∙∙ Gabriel takes account of all phases of the products’ life cycle and
+prioritises the environmental initiatives in those areas where
+the influence and impact are highest.
+∙∙ Gabriel will maintain the position as First Mover within the
+industry, meaning that Gabriel assumes the lead in relation
+to taking a position on and implementing new initiatives to
+improve the environment.
+∙∙ Gabriel prepares a report in connection with the presentation
+of the annual financial statements. The report includes information on CSR and major environmental impacts and goals.
+The report is available to the public and distributed to all the
+company’s employees.
+∙∙ Those of the company’s employees in contact with customers
+must be in a position to provide correct information on Gabriel’s
+environmental objective and policies. Guidance must be provided to customers and users on significant environmental aspects
+of the use, recycling and disposal of the company’s products.
+∙∙ The company’s suppliers must be selected in accordance with
+their ability to fulfil environmental requirements and their willingness to enter into an open and close partnership to achieve
+optimal solutions.
+∙∙ Contractors working at Gabriel’s site in Aalborg must fulfil the
+same environmental requirements applying to Gabriel.	
+
+5
+
+FROM RAW MATERIAL TO FINISHED PRODUCT:
+PROCESSES AND ACTIVITIES
+
+Gabriel is a niche company which, in the entire value chain from
+concept to furniture user, develops, manufactures and sells upholstery fabrics, components, upholstered surfaces and related
+products and services. Gabriel is organised in a number of independent strategic business units (Masters) with their own
+visions, targets, strategies and budgets.
+The objective and policies set the framework for Gabriel’s CSR
+work in the value chain, including how Gabriel works together
+with selected partners. Gabriel has an influence on the entire
+route from raw materials to the finished upholstered product,
+and therefore has a shared responsibility in all stages both locally
+and globally. The approach to the value chain always has CSR
+and value-adding in mind.
+There is focus on the complete life cycles of services to obtain the
+largest possible environmental benefit of the efforts. This ensures
+that a step in the life cycle is not optimised without noting how
+it affects the environmental performance in the following steps.
+It also ensures priority for the effort where the environmental
+benefit will be greatest. The route from raw material to finished
+product is illustrated in the model on the next page.
+Significant environmental matters are determined on the basis
+of systematic surveys, including measurements of input (raw
+materials, water, chemicals and energy), measurements of
+output (waste water, scrap and emissions), and setting up of
+key figures. Gabriel also continuously monitors the analyses
+and reports of institutes, authorities and others who are thoroughly familiar with environmental matters in order to identify
+relevant concerns.
+The surveys show that the following must be regarded as the
+most important environmental matters in the products’ life cycle:
+∙∙ Raw materials – New Zealand wool.
+∙∙ Raw materials – polyester fibres.
+∙∙ Raw materials – other products used in upholstery, e.g. foam,
+metal and plastic.
+∙∙ Energy consumption and waste water, especially in washing,
+dyeing and finishing treatment.
+∙∙ Consumption of chemicals.
+∙∙ Consumption of energy.
+∙∙ Scrap from production.
+∙∙ Waste water.
+∙∙ Transport of raw materials and finished goods.
+∙∙ Disposal, including recycling of the products.
+These matters relate primarily to suppliers and customers’ activities (indirect environmental impacts). Gabriel’s environmental
+work is product-oriented, and to a high degree these matters are
+worked with in cooperation with suppliers and customers. It is
+therefore essential that Gabriel has a good relationship with the
+suppliers to ensure communication of requirements and goals.
+
+6
+
+Gabriel has an influence on
+the entire route from raw
+materials­to the finished
+upholstered ­product, and
+therefore has a shared
+responsibility in all ­stages
+both locally and globally.
+
+Environmental matters related directly to Gabriel’s activities
+and properties:
+∙∙ Consumption of energy and heating.
+∙∙ Noise.
+∙∙ Generation of waste.
+∙∙ Transport for customer visits, supplier follow-up and other meetings.
+
+High priority areas
+Gabriel’s efforts are described under six main areas which form
+the basis for implementing objectives and policies for CSR and
+the environment. These six prioritised areas were chosen under
+the following criteria:
+∙∙ Matters prioritised by Gabriel’s CSR and environmental policies.
+∙∙ Matters judged important by legislation.
+∙∙ Matters judged important in product labelling, including C2C,
+Oeko-Tex and the EU Ecolabel.
+∙∙ Matters where Gabriel has an influence on effecting an improvement.
+∙∙ The relative importance of environmental matters.
+
+The six main areas
+∙∙ Materials and resources
+∙∙ Responsible production and management of suppliers.
+∙∙ Environmental labelling and certifications.
+∙∙ Development and innovation.
+∙∙ The working environment.
+∙∙ Gabriel Erhvervspark.
+These areas are discussed in greater depth on the following pages, where an overview of positions, activities
+performed, results and new goals is provided. This is
+Gabriel’s environmental action programme, the details of
+which show how the company intends to work on impacts
+related to CSR and the environment in 2013/14.
+
+CSR & Environmental Report 2012/13
+
+
+
+From raw material to finished product
+Wool
+
+PolyesTeR
+
+Raw material
+production
+
+- Farming
+- Shearing
+- Scouring
+
+- Extract crude oil
+- Refine crude oil
+
+Raw material
+processing
+
+- Material dyeing
+- Carding
+- Spinning
+- Yarn dyeing
+- Twisting
+
+- Petrochemical processing
+- Granulate
+- Melt granulate
+- Spin fibres
+
+Weaving
+
+Textile production
+
+dyeing
+Wet processing, dyeing,
+finishing treatment
+
+disPaTch
+
+Making uP
+Cutting, sewing, upholstering
+
+use
+
+Disposal
+
+Recycle
+
+Reprocess
+
+New use
+
+7
+
+Materials and resources
+
+fabric. Polyester can also be recycled in other products after
+use. Gabriel works only with suppliers who can deliver high
+quality polyester yarns which meet Gabriel’s environmental
+requirements. Gabriel offers the product Comfort+, which consists of 37% recycled polyester. Work is ongoing to discover the
+possibilities for increasing the proportion of fabrics based on
+recycled material.
+
+With the establishment of
+UAB FurnMaster in the first
+quarter of 2012/13, Gabriel
+gained even greater influence
+on the upholstery and sewing
+work in relation to components
+and finished pieces of furniture.
+
+With the establishment of UAB FurnMaster in the first quarter
+of 2012/13, Gabriel gained even greater influence on the upholstery and sewing work in relation to components and finished
+pieces of furniture. The systems must be able to handle and
+assess the environmental impacts of a range of new materials
+such as foam and metal. Work is currently in progress on updating requirement specifications to include aspects concerning
+the upholstery activities.
+
+The largest resource in Gabriel’s products is pure new wool from
+New Zealand. Gabriel has a long-term partnership with Wools
+of New Zealand, which is a guarantee of high quality raw material and good conditions for the sheep. Wool possesses unique
+dyeing properties, where the dye is absorbed into the fibre, and
+the material absorbs light, meaning very attractive colours with
+lots of depth and no reflections. Wool maintains its attractive
+appearance in use, assuring the finished product a long service
+life. Gabriel uses only high quality raw wool, thus avoiding many
+chemical finishing treatments.
+Polyester has come to comprise a significant part of Gabriel’s
+product range in recent years. Polyester is the world’s most used
+fibre, and it has properties which make it suitable for furniture
+
+8
+
+Chemicals are required in the dyeing and washing processes,
+but Gabriel controls the choice and use of dyes and chemicals in
+the suppliers’ production. The following are therefore not used:
+∙∙ Chlorine compounds.
+∙∙ Organic solvents.
+∙∙ Dyes containing heavy metals.
+∙∙ Dyes and pigments which can give off carcinogens.
+∙∙ PVC.
+∙∙ Bromine-containing flame retardants.
+∙∙ Silver ions or other bactericidal treatments.
+∙∙ Anti-moth impregnation (the substances in question are toxic).
+∙∙ Other substances classified as carcinogenic or mutagenic.
+This is managed to a high degree in Gabriel General Requirements,
+which contain lists of phrases concerning undesired risks and
+chemicals, and minimum requirements for fabric performance.
+Work is also proceeding on how the resources can be recycled
+in other products after use, with particular focus on retaining the
+high value of the resources. After use, the components can be
+handled as ordinary non-toxic waste or recycled in new products.
+
+CSR & Environmental Report 2012/13
+
+
+
+Materials and resources: Goals and results
+Goals 2012/13
+
+Enter into a binding agreement
+with a recipient of polyester
+waste, where the specific
+quantities and use of the
+waste product are agreed.
+Establish a continuous partnership
+on logistics to handle the waste
+material.
+Clarify whether own waste product
+can be used as a resource for new
+fabric products.
+Establish the quality and
+environmental requirements
+for the material, including its
+­purity, so that it can be used
+as a resource for new yarn.
+
+Launch at least one new product on
+the basis of recycled polyester fibre.
+
+Continue specifying ZenXit’s
+­environmental and quality
+­properties. Perform tests to
+determine the quantities in
+which recycled and new
+materials can be mixed.
+
+Results 2012/13
+
+A binding agreement has not
+yet been made with a recipient
+of polyester waste for recycling
+into new yarn.
+During the year, Gabriel visited
+a number of facilities which can
+recycle polyester waste in various
+ways. The visits revealed that there
+are very few facilities which are
+able to recycle the material into
+new yarn of the desired quality.
+
+Goals 2013/14
+
+Carry out a development project
+using recycled yarn as a component.
+There is substantial focus on the
+possibilities of establishing closedloop material cycles, nationally and
+internationally, and Gabriel will
+follow and be directly involved in
+these projects.
+
+The purity of the materials is
+c­ ritical to high quality of the
+­recycled product, and Gabriel
+identified specific requirements.
+Experience also shows that it
+is ­essential to obtain a critical
+­volume of material.
+
+The product was not fully
+­developed within the period
+due to long delivery times and
+the time spent on testing the
+­product’s physical properties.
+
+The goal is continuing in the next
+period and is still to launch minimum one new product on the basis
+of recycled polyester fibre.
+
+UAB FurnMaster established ­
+the use of water-based glue
+and gluing systems were
+installed for this purpose.
+
+Establish FSC certification of wood
+products at UAB FurnMaster.
+
+The main focus in the period was
+on development of the product’s
+quality-related properties.
+
+Gain CE-labelling of the product
+to allow testing and launching in
+special applications.
+
+9
+
+RESPONSIBLE PRODUCTION AND SUPPLIER MANAGEMENT
+
+respect to business ethics and to help employees maintain ethical
+behaviour. The Code of Conduct was developed on the basis of the
+UN Global Compact and is in accordance with the recommendations of the industry organisation Dansk Mode & Textil.
+Gabriel is a participant in Dansk Mode & Textil’s CSR committee
+for promotion of CSR in the industry. More details are available
+at www.dmogt.dk.
+
+Gabriel has initiated a supplier
+project which will ensure
+a continued strong and
+open partnership with
+suppliers with the emphasis
+on ongoing optimisation.
+
+Daily following up on Gabriel’s partners in Europe is undertaken
+by the team from Aalborg, while Gabriel Asia Pacific undertakes
+equivalent daily following up on the partners in their region.
+However, the development of systems and requirements as
+well as approval of new suppliers takes place in close dialogue.
+There is a close partnership with Gabriel’s partly owned dye works
+UAB Scandye, including ongoing follow-up on environmental
+projects and improvements. The environmental impacts from the
+processes in the dye works comprise a significant proportion of
+the environmental impacts attributable to the product during its
+life. The overview of goals and results below shows parts of UAB
+Scandye’s environmental results in the 2012/13 financial year.
+
+Gabriel only collaborates with good partners in the supplier
+chain who are capable of meeting the requirements applying
+to products and services. Gabriel works actively to select and
+improve the best possible partners.
+Environmental assessment is a high-priority area in follow-ups at
+suppliers, and Gabriel’s requirements include compliance by the
+manufacturers with all local regulatory requirements. The suppliers are also assessed in relation to Gabriel’s own environmental
+requirements, and together with the suppliers, action plans are
+implemented to ensure that environmental impacts are regularly
+reduced. The Oeko-Tex and EU Ecolabel schemes also place direct
+requirements on the suppliers, and compliance is verified by a
+third party. Partners are expected to comply with Gabriel’s Code
+of Conduct, a set of rules which serve to provide guidance with
+
+10
+
+In future, Gabriel wants to increase the focus on the results obtained in the supply chain, and the reporting will thus include key
+data concerning the most important suppliers’ activities rather
+than specific data from UAB Scandye. In this context, Gabriel
+has initiated a supplier project which will ensure a continued
+strong and open partnership with suppliers with the emphasis
+on ongoing optimisation.
+UAB FurnMaster, which was established in 2012, is fully integrated in the quality management system for Gabriel A/S. Work
+is in progress locally on documenting local quality and environmental management processes, and a number of improvements
+to the physical conditions have been made.
+Transport is a relevant factor as it connects production and customers. Gabriel’s work on optimisation of transport is continuing, so that most goods will be transported by ship or lorry. This
+is also significant from a financial point of view.
+
+Goals 2012/13
+
+Results 2012/13
+
+CSR & Environmental Report 2012/13
+
+
+
+Responsible production and supplier management: Goals and results
+Goals 2013/14
+
+Update ISO 9001 and ISO 14001
+certification for Gabriel to include ­
+a new upholstery supplier, and
+structure certification around the
+individual Master.
+
+The project has been started up by
+several Masters, the first of which is
+about to be certified.
+
+Minimum five Masters obtain an
+­individual certification at the end
+of the 2013/14 financial year.
+
+Conduct courses for relevant departments in Gabriel, connecting CSR,
+suppliers and the value chain.
+
+The course programme was carried­out
+in partnership with KPMG and Business
+Development Centre Northern Denmark
+in March-April and attended by DesignMaster, ­QEP-Master, LogisticsMaster,
+­SampleMaster, MarketingMaster and
+three external participants.
+
+Conduct training in the individual
+Masters concerning management
+systems and processes as part of the
+roll-out of the individual certification.
+
+Examine how relevant KPIs and goals
+for transport applying from next
+year’s environmental accounts can
+be set up.
+
+KPIs have been set up for carriage
+of goods from China to the European­
+warehouse, where the choice of
+­transport route is of significance
+for the environment and prices. The
+­proportion between sea and air transport indicates that 98.5% of the goods
+­produced in China is carried by sea.
+
+Continue to increase the proportion
+of sea transport from China and, at
+a minimum, maintain it at 98.5%.
+
+This involves assessment by the
+i­ndividual Master of its core processes and services, including how
+quality and environmental conditions
+­influence the Master’s services.
+
+Extend reporting to include key data
+concerning the most important
+suppliers’ CSR results.
+Establish a number of indicators to
+be included in the reporting for the
+next period.
+Gain EMAS certification for the dye
+works UAB Scandye.
+
+The project has been initiated but is not
+yet completed, so the goal continues.
+
+Gain EMAS certification for the dye
+works UAB Scandye.
+
+Reduction in water consumption at
+UAB Scandye to 135 l/kg fabric.
+
+The water consumption was 143 l/kg
+fabric, an increase of 2% relative ­
+to last year.
+
+UAB Scandye continues to set
+­reduction targets to obtain ongoing
+improvements, which will be included
+in the future extended reporting of
+key supplier data.
+
+Reduction in electricity ­consumption
+at UAB Scandye to 1.48 kWh/kg fabric.
+At a minimum, retain gas
+­consumption at UAB Scandye
+at 1.08 m3/kg fabric.
+
+The electricity consumption was
+1.5 kWh/kg fabric, a decrease of
+1% ­relative to last year.
+The gas consumption was
+1.02 m3/kg fabric, a decrease
+of 6% relative to last year.
+
+11
+
+ENVIRONMENTAL LABELLING AND CERTIFICATIONS
+
+Gabriel uses generally accepted and internationally recognised
+product labels and certifications. On the product side, the EU
+Ecolabel, Oeko-Tex, Cradle to Cradle and the Nordic Ecolabel, the
+Swan, were selected as they are widely known and recognised.
+Gabriel has frequently been at the forefront within the industry in
+using new labels. In 2002, Gabriel was the first upholstery fabric
+manufacturer in the world to use the EU Ecolabel on a large part
+of the range, and in 2010, Gabriel was the first Danish company
+to gain Cradle to Cradle product certification.
+The product labelling helps to ensure that there is an objective
+basis for proving that the communication about the products is
+true. The labelling schemes mean that the product ranges are
+subject to a number of different requirements and external tests
+and approvals which are the customer’s guarantee of the products’ performance. This applies to both internationally recognised
+product standards such as those concerning wearability and fireretardant qualities, and environmental matters.
+
+Gabriel’s requirement is that an environmentally labelled product
+must be able to comply with all the customer’s needs at the same
+level as, or better than, a product without the label. All Gabriel
+products comply with stringent requirements which reflect the
+Oeko-Tex scheme or the EU Ecolabel. A certification under the
+Cradle to Cradle scheme is also included in selected areas, and
+this area is expected to be extended in the future.
+Gabriel is certified under ISO 9001, ISO 14001 and EMAS. This
+ensures systematic control of all parameters in product development and production, and ongoing performance improvements. A large quantity of environmental and quality data on
+Gabriel’s products is available, and can thus offer specific details
+if a customer wants a particular label on its product for a specific
+market. Whether new product labels should be included in the
+portfolio is regularly identified and prioritised as this can be a
+route into new markets.
+
+Environmental labelling and certifications: Goals and results
+Goals 2012/13
+All new products must carry either
+the EU Ecolabel or Oeko-Tex.
+
+Results 2012/13
+Three new products gained certification under the EU Ecolabel.
+Eight new products gained certification
+under Oeko-Tex.
+In addition, a large part of the existing
+polyester and Trevira CS range obtained
+certification under Oeko-Tex class III,
+whereas it was previously class IV.
+
+12
+
+Goals 2013/14
+
+­
+
+All new products must carry either
+the EU Ecolabel or Oeko-Tex.
+Examine various labelling schemes
+to establish whether they are relevant
+to support sales on some of Gabriel’s
+more recent markets.
+
+Revise and update the product range
+to meet new requirements under the
+EU Ecolabel which are expected to
+be adopted in March 2013.
+
+The new criteria are expected to be
+adopted in November 2013.
+
+The deadline for revision and updating of the product range is 2015.
+
+Together with key suppliers, Gabriel
+acted as adviser to the EU Commission’s workgroup during revision of
+the labelling scheme. The ­dialogue
+focused on the requirements b­eing
+commercially responsible and
+­technologically possible so that the ­­
+E­U Ecolabel can continue to be a widely used labelling scheme representing
+the best products on the market.
+
+Initiate any necessary changes to
+­ abriel’s existing products after
+G
+adoption of the new criteria. In
+­addition, update product requirements so that new products are
+­developed with a view to the
+updated requirements.
+
+Extension of the C2C programme
+to include at least one new
+polyester product.
+
+The project is at its concluding stages
+before final launching and it is expected to be implemented within the next
+few months.
+
+Extension of the C2C programme
+to include at least one new
+polyester product.
+
+The
+Ecolabel
+(the Flower)
+is the
+European Union’s
+environment label.
+Theforholder
+label covers
+EUEU
+Ecolabel
+(Blomsten)
+er den
+europæiske
+unions miljømærke.
+Mærket
+sig environmental
+til miljøforholdissues­
+i hele
+throughout
+product’smed
+life fokus
+cycle with
+focus on
+energy,
+water and og
+chemicals,
+andataccords
+a high
+priority to
+produktetsthe
+livscyklus
+på energi,
+vand
+og kemikalier
+prioriterer
+reducere
+de væsentligste
+­reducing
+the most significant
+environmental
+of betyder
+a given product.
+Forer
+textiles,
+thismængden
+means focusing
+on
+miljøpåvirkninger
+for et givent
+produkt. Forimpacts
+tekstiler
+det, at der
+fokus på
+af pesticid­
+the
+quantity
+of pesticide
+residues
+in the
+raw material,
+the scouring
+of thekemikalier
+raw wool, the
+use and emissions
+rester
+i råvaren,
+vask af
+den rå uld,
+brugen
+og udledningen
+af farlige
+i produktionen
+samt of
+­h­m
+azardous
+in production,stoffer
+and theogquantity
+of toxic isubstances
+heavy metals in the finished product.
+ængdenc­ hemicals
+af sundhedsskadelige
+tungmetaller
+det færdigeand
+produkt.
+The
+EU Ecolabel
+also
+requirements
+product’s
+quality,
+so that
+the product produkt
+with the er mindst
+Derudover
+stiller
+EUsets
+Ecolabel
+krav omconcerning
+produktetsthe
+kvalitet,
+således
+at det
+miljømærkede
+­environmental
+label
+is ikke-mærkede
+at least as goodalternativ.
+as the non-labelled alternative.
+lige så godt som
+det
+
+CSR & Environmental Report 2012/13
+
+
+
+EU
+EUEcolabel
+Ecolabel
+
+www.ec.europa.eu/environment/ecolabel/
+
+Oeko-Tex
+Oeko-Tex
+
+Oeko-Tex
+theverdens
+world’sførende
+leading sundhedsmærkning
+health label for textiles.
+label certifies
+tested og
+andgodkendt
+approved
+Oeko-Texiser
+forThe
+tekstiler.
+Mærket that
+viser,the
+at item
+varenwas
+er testet
+on
+of the
+requirements
+setOeko-Tex®-forening
+by the international Oeko-Tex
+association.
+concern
+udthe
+frabasis
+de krav,
+den
+internationale
+har stillet.
+Krav, der These
+drejer requirements
+sig om indholdet
+af the
+content
+of stoffer,
+chemicals
+– or
+are suspected
+being–able
+to –kroppen.
+damage the
+body. The label
+goes
+further than
+­kemiske
+derwhich
+kan –can
+eller
+mistænkes
+for atofkunne
+skade
+Mærkningen
+er mere
+omfattende
+the
+law,
+and the requirements
+dividediinto
+classes
+depending
+on the textile’s
+use (how
+to the
+body
+end
+lovgivningen,
+og kraveneare
+er opdelt
+fire four
+klasser
+afhængig
+af tekstilets
+anvendelse
+(hvorclose
+tæt på
+kroppen
+they
+are). Theer).
+substances
+include,
+for om,
+example,
+formaldehyde,
+chemical r­kemikalierester
+esidues with an acidic
+or
+tekstilerne
+Nogle af in
+dequestion
+stoffer, der
+er krav
+er eksempelvis
+formaldehyd,
+med sur
+basic
+phenols, heavy
+metals,
+special dyes
+and phthalates.
+elleraction,
+basiskpesticides,
+virkning, pesticider,
+fenoler,
+tungmetaller,
+særlige
+farvestoffer samt ftalater.
+www.oeko-tex.com
+
+CradletotoCradle
+Cradle
+Cradle
+
+Cradletotocradle
+Cradle
+(C2C)
+gør op med
+denwe
+måde,
+ressourcer
+anskues
+(udvind,
+brug,
+væk)
+og
+Cradle
+(C2C)
+concerns
+the way
+view hvorpå
+our resources
+(extraction,
+use,
+disposal)
+andsmid
+works
+to create
+rbejder
+for at
+skabe
+lukkede
+kredsløb
+med enten
+tekniske
+eller biologiske
+næringsstoffer.
+Konceptet
+a­aclosed
+cycle
+with
+either
+technical
+or biological
+nutrients.
+The concept
+was formulated
+by the German
+Michael
+er formuleret
+af tyskeren
+oginamerikaneren
+William
+McDonough
+i 2002,
+ideernein a
+Braungart
+and the
+AmericanMichael
+WilliamBraungart
+McDonough
+2002, but ideas
+underlying
+the concept
+aremen
+now shared
+bag konceptet
+breder sig nu i flere kredse.
+number
+of circles.
+C2C-certificering
+vurderer
+forholdto
+tilfive
+femcategories:
+kategorier:
+fornybar energy,
+energi, water
+vandforbrug,
+materiaAEn
+C2C
+certification assesses
+the produktet
+product in irelation
+renewable
+consumption,
+the
+lernes sundhed,
+social ansvarlighed
+og materialegenanvendelse.
+Resultatet
+er en certificering
+på ét
+af fem
+materials’
+health properties,
+social responsibility,
+and recycling. The result
+is certification
+at one of five
+l­evels.
+niveauer.
+administreres
+af ThetoCradle
+Cradle Products
+The
+schemeOrdningen
+is administered
+by The Cradle
+CradletoProducts
+InnovationInnovation
+Institute. Institute.
+www.epea.com
+
+www.c2ccertified.org
+
+www.mbdc.com
+
+Ledelsessystemer:
+ISO
+9001,
+ISO14001
+og and
+EMAS
+Management
+systems:
+ISO
+9001,
+ISO 14001
+EMAS
+
+ISO9001
+9001and
+og ISO
+ISO 14001
+14001are
+er begge
+standarder
+henholdsvis
+kvalitets- og
+miljøledelse,
+somwhich
+en virksomhed
+ISO
+both standards
+for for
+quality
+and environmental
+management
+under
+a company
+kanchoose
+vælgecertification.
+at lade sig certificere
+efter. Begge
+standarder
+bygger of
+påmaking
+princippet
+om at skabe
+løbende forcan
+Both standards
+are based
+on the principle
+continuous
+improvements
+which are
+bedringer
+ved at gennemføre
+fastthe
+cyklus:
+nuværende
+vurderes,
+derset
+sættes
+mål og formuleres
+created
+by implementing
+a fixeden
+cycle:
+current
+situation situation
+is evaluated,
+goals are
+and policies
+formulated, the
+politikker,
+nødvendige
+handlingerand
+implementeres,
+og is
+til measured.
+slut målesOn
+resultatet.
+vurderes
+required
+actions
+are implemented,
+finally the result
+the basisPå
+of baggrund
+the result,af
+andette
+assessment
+is
+det, om
+handlinger
+og mål
+tilstrækkelige,
+foretages
+forbedringer
+og sættes
+nyeand
+mål.
+ISO
+9001set. ISO
+made
+of whether
+actions
+ander
+goal
+are adequate,og
+order
+whether
+improvements
+should
+be made
+new
+goals
+­fokuserer
+påonparametre
+med
+betydning for
+kvalitetsperformance,
+ISO while
+14001ISO
+vedrører
+9001
+focuses
+parameters
+of significance
+forena virksomheds
+company’s performance
+with respect mens
+to quality,
+14001
+de forhold,
+har betydning
+for miljøpræstationen.
+I dette er auditperformance.
+et væsentligtAn
+redskab
+til attool
+vurdere,
+concerns
+theder
+matters
+of significance
+for the company’s environmental
+important
+in thisom
+is
+systemerne
+fungerer
+efter planen.
+the
+audit, which
+is an assessment
+of whether the systems are functioning as planned.
+EMAS(the
+(theEU
+EUEco-Management
+Eco-Management
+and
+Audit
+Scheme)
+mange
+paralleller
+til 14001
+ISO14001,
+alle krav i
+EMAS
+and
+Audit
+Scheme)
+hashar
+many
+parallels
+with ISO
+as alleftersom
+the latter’s
+ISO 14001 erare
+indbygget
+PåIn
+nogle
+er scheme
+ordningen
+meremore
+ambitiøs;
+eksempelvis
+stilles der
+­requirements
+includedi EMAS.
+in EMAS.
+someområder
+areas, the
+is, dog
+however,
+ambitious.
+For example,
+om enenvironmental
+offentliggjort account
+miljøredegørelse
+og målbare
+miljømæssige
+forbedringer
+år.are required.
+akrav
+published
+and measurable
+environmental
+improvements
+yearår
+byfor
+year
+www.iso.org
+
+ec.europa.eu/environment/emas/
+
+Gabriel:
+guarantee
+Gabriel:Ten-year
+10 års garanti
+
+Gabriel
+ten-year
+against wear-through
+on all furniture
+fabricsved
+in the
+pricekontorlist under
+normal
+Gabrielprovides
+yder 10 aårs
+garantiguarantee
+mod gennemslidning
+på alle møbelstoffer
+i prislisten
+normal
+eller
+office
+or home use,
+normal
+maintenancesamt
+and appropriate
+upholstering.
+The
+wasaf
+designed
+hjemmebrug,
+normal
+vedligeholdelse
+velegnet polstring.
+Mærket
+er label
+designet
+Gabriel.by Gabriel.
+Gabriel
+alsohar
+hasGabriel
+a comprehensive
+spot pletfjerningsguide,
+removal guide which
+canogså
+also kan
+be used
+to keep
+fabric
+cleanflot
+andog rent.
+Endvidere
+en omfattende
+som
+bruges
+til atthe
+holde
+tekstilet
+­attractive in the event of an accident.
+
+Gabriel:No
+Friheavy
+for Tungmetaller
+Gabriel:
+metals
+
+Mærket blev udviklet af Gabriel tilbage i 1980’erne for at signalere over for kunderne, at Gabriel kunne
+The label was developed by Gabriel back in the 1980s to signal to customers that Gabriel can offer ranges of dyes
+­tilbyde farveprogrammer uden brug af tungmetaller. Gabriel var den første danske tekstilproducent til
+which are free of heavy metals. Gabriel was the first Danish textile manufacturer to introduce this, and no heavy
+at introducere dette, og i dag anvendes der ikke tungmetaller til at farve kollektionerne.
+metals are now used in our dyes.
+Siden dengang er miljømærkerne kommet til, og de regulerer også grænseværdier for tungmetaller.
+Since then, the environmental labels have appeared, and they also govern the limit values for heavy metals.
+­Mærket bruges også som et symbol på vores tradition for at gå forrest i branchen.
+The label is also still used as a symbol of our tradition of taking the lead in the sector.
+
+13
+
+DEVELOPMENT AND INNOVATION
+
+Innovation and value-adding partnerships are the foundation
+of Gabriel’s mission, and this is also reflected in the way the
+company is working with environmental impacts. Gabriel wants
+to be the primary customers’ preferred development partner so
+that the customer sees it as natural to turn to Gabriel for advice
+on new challenges. Gabriel is able to solve environmental tasks
+throughout the product’s life cycle through close partnerships
+with partners, and knowledge sharing in the supplier chain is
+an important strength. Gabriel also wants to inspire customers
+to take new pathways and apply a new focus in their work, to
+discover new possibilities and thereby to offer customers new
+solutions which can benefit their business. Gabriel’s policies
+are determined on the basis that Gabriel wants to be a leader in
+the area and wants the policies to go further than the limits required by law. This also protects Gabriel’s products against more
+stringent requirements under the law because the company is
+already at the forefront when new requirements are made mandatory for all.
+There is a close working relationship between the Masters in
+Gabriel on development of new products. Gabriel’s QEP-Master
+
+(Quality, Environment and Production) is involved at an early stage
+in the course of development, ensuring that requirements and
+new possibilities are elucidated and integrated into the product
+development processes. Higher priority is also being given to the
+environmental work in the product development process with
+substantial focus on inter alia Cradle to Cradle and recycling of
+materials as important drivers of development.
+On the networking side, Gabriel is continuing its good partnership with various knowledge partners, including Dansk Mode &
+Textil, Network for Sustainable Business Development in Northern Denmark, Aalborg University, EPEA Hamburg and Cradle­
+People as some of the more important partners. This also helps
+to ensure that Gabriel is constantly challenged on its policies and
+actions and is up-to-date with the latest knowledge.
+In recent years, QEP-Master has also used its expertise with
+respect to external partners who are not involved in Gabriel’s
+traditional value chains. This helps to develop the work on quality
+and the environment for these partners while also extending
+QEP-Master’s area of business.
+
+Development and innovation: Goals and results
+Goals 2012/13
+Extend customer portfolio for
+­external consultancy.
+
+14
+
+Results 2012/13
+QEP-Master was chosen as adviser
+in a process under the Network for
+Sustainable Business Development in
+Northern Denmark and will assist a
+number of businesses with formulating plans for sustainable business
+development. QEP-Master is part of
+a consortium with Milestone Pro and
+COWI on the task with QEP-Master as
+the primary project manager.
+
+Hold Cradle to Cradle training
+­programme in cooperation with
+EPEA, including participation of
+external parties.
+
+Knowledge and skills were accumulated in several Masters through
+intensified internal cooperation
+on Cradle to Cradle in the product
+­development projects.
+
+Prepare life cycle assessments
+(LCAs) for two types of main
+­products and communicate the
+result to internal and external
+stakeholders.
+
+The LCA was carried out by a group
+of students from the course Environmental Management and Sustainability Science from Aalborg University.
+The analysis has not been published
+yet. Data validation work is in progress
+together with a major customer, and
+the results are expected to be published during 2014.
+
+Goals 2013/14
+
+­
+
+Extend customer portfolio for
+­external consultancy.
+Ensure consolidation of methods
+and extend the description of services in the quality and environmental management system.
+
+Continue the work on further developing the LCA models and results
+with a view to publishing the key
+conclusions, and incorporate them
+in Gabriel’s environmental management system.
+
+Gabriel must be able to attract and retain staff with the right
+skills and knowledge required for the continued creation of innovation and growth as an international company. Gabriel gives
+priority to everyone using, developing and sharing knowledge
+and skills. All employees are familiarised with Gabriel’s vision,
+strategy, targets and activity plans and are regularly updated on
+their work situation as part of staff development dialogues and
+staff meetings. This ensures that all employees work in accordance with clear goals and areas of responsibility, and that their
+professional and personal development is stimulated.
+
+Gabriel acts as a socially committed workplace, among other
+ways by providing flex jobs, training places and trial jobs. Finally,
+Gabriel wishes to support students by providing internships and
+entering into training projects which can benefit both the students and the company.
+
+CSR & Environmental Report 2012/13
+
+
+
+WORKING ENVIRONMENT
+
+The company is also active in health promotion, with focus on
+healthy food in the canteen. Employees are offered free fruit,
+there is an annual subsidy for sports activities, and participation is arranged in the annual DHL relay race in Aalborg. All
+employees are also covered by health insurance.
+
+Gabriel aims to be an attractive workplace for all employees
+and also assumes a social responsibility in the local community.
+
+Working environment: Goals and results
+Goals 2012/13
+
+Results 2012/13
+
+Goals 2013/14
+
+­
+
+Measure well-being and achieve a
+result of 4.1 or better.
+
+It has been decided to change the
+form of the well-being measurement.
+The result in 2012 was a high score of
+4.1 out of 5, but there is a need to be
+able to examine other, new parameters concerning, for example, culture
+and innovation.
+
+Carry out the measurement in its
+r­ evised form and analyse the result.
+
+Hold all mandatory employee
+­appraisal and half-yearly
+follow-up interviews.
+
+All mandatory interviews were held.
+
+Hold all mandatory employee
+­ ppraisal and half-yearly
+a
+follow-up interviews.
+
+Start recording sick days and
+achieve a maximum of 3.5%.
+
+Recording of sick days was initiated,
+but the data are insufficient.
+
+Launch a new time recording system
+from 1 October which integrates
+the recording in the company’s
+work ­processes, thus improving the
+­possibilities of analysing the data.
+Achieve maximum sickness
+absence of 3.5%.
+
+Evaluate how an OHSAS 18001
+certification can be obtained
+in Aalborg.
+
+It was judged that an OHSAS 18001
+certification will be relevant for improving the possibility of imposing
+demands in the value chain, and
+other systems were identified which
+can give a similar advantage.
+
+Give the area higher priority and
+i­mplement it as part of the roll-out
+of Gabriel’s updated quality and
+­environmental management system.
+Increased focus on transport and
+transport safety, since they represent
+an important aspect of the global
+working environment.
+
+15
+
+Gabriel erhvervsPark
+
+Gabriel no longer needs special environmental permits to emit
+waste water etc. because there is no longer any production in
+Aalborg. The requirements regarding noise specified by the City
+of Aalborg are complied with. The terms are given under Notes.
+The emergency plan has just been updated, and Gabriel’s employees are trained in its use. A number of employees have also
+taken courses in first aid and use of defibrillators. Other tenants
+have been informed of the contents of the emergency plan and
+encouraged to train their employees in its use.
+
+Gabriel A/S’s head office is still situated at the location where it
+all started in 1851. The old factory buildings have been converted
+into bright offices with a sound and interesting working environment. The property now functions as Gabriel’s modern head
+office and the workplace for a large number of companies renting
+accommodation at Gabriel Erhvervspark. Gabriel is responsible
+for operation of the building, including emergency plans.
+The most important direct environmental impacts related to
+­Gabriel’s activities arise in connection with the company’s activities at the address at the business park. These are energy,
+heat and water consumption and generation of waste. An allocation scheme has been developed for environmental impacts
+from the various tenants in Gabriel Erhvervspark: at the end of
+the financial year, Gabriel’s share amounted to 54% of the total
+property area. This statement details the business park’s total
+consumption, as many of the facilities are shared. In consultation with the tenants, a system for measuring particularly heavy
+impacts has been established, where the installations are structured such that consumption can be directly attributed to the
+rooms used by the tenant.
+
+Gabriel A/S’s head office is still
+situated at the location where
+it all started in 1851. The old
+factory buildings have been
+converted into bright offices
+with a sound and interesting
+working environment.
+
+In the 2012/13 financial year, the reduction in heat consumption
+from the previous financial year was maintained, and consumption is at the same level. Electricity consumption increased by 3%,
+but a bigger increase was expected due to the establishment of
+an air conditioning system in the old textile factory. The system
+was not installed until the last quarters of the financial year and
+did not cause any significant increase. As of 30 September 2013,
+Gabriel Ejendomme A/S has rented out about 6,200 m2, corresponding to almost full occupation of the renovated building area.
+Management regularly assesses how the property’s value and
+income can be developed and optimised for the benefit of both
+tenants and owners. These considerations include consumption
+of electricity and heat.
+
+Gabriel Erhvervspark: Goals and results
+Goals 2012/13
+
+16
+
+Results 2012/13
+
+Maintain consumption of heat
+at 251 MWh.
+
+Heat consumption was maintained
+at an annual consumption of 250
+MWh. No correction was made for
+degree days.
+
+Establish better sorting at source
+of waste from the office areas.
+
+The area was not a high priority
+and will not be continued in the
+next period.
+
+Goals 2013/14
+
+­
+
+Maintain consumption of heat ­
+at 250 MWh.
+
+CSR & Environmental Report 2012/13
+
+
+
+consolidated data
+
+The statement covers the period 1 October 2012 to 30 September 2013.
+
+	
+
+2012/13	2011/12	 2010/11	2009/10
+
+ENVIRONMENTAL DATA AALBORG
+Key indicators and environmental data
+District heating (m3)	
+District heating (MWh)	
+Calculated CO2 emissions (tons)	
+Calculated SO2 emissions (tons)	
+
+23,192	23,205	 31,655	35,587
+250	251	 342	384
+92	 86	 117	131
+<1	<1	 <1	<1
+
+Electricity (MWh)	
+Calculated CO2 emissions (tons)	
+Calculated SO2 emissions (tons)	
+Proportion renewable electricity (%)	
+
+548	532	 435	405
+166	201	 194	181
+<1	<1	 <1	<1
+24	26	
+
+Total energy (MWh)	
+Total calculated CO2 emissions (tons)	
+
+799	782	 777	790
+258	287	 311	312
+
+Waste water (m3)	
+Waste
+Industrial waste (tons)	
+Cardboard for recycling (tons)	
+Plastic for recycling (tons)	
+Site use
+Total lot size (m2)	
+Developed area (m2)	
+Roads and car park (m2)	
+
+1,053	1,029	 860	1,421
+
+15.3	14.5	 16.4	22.0
+2	4.3	 5.1	5.5
+0	1.2	 0	1.2
+
+31,860	31,860	 31,860	31,860
+9,530	9,530	 9,530	9,530
+3,715	3,715	 3,715	3,715
+
+CONSUMPTION OF RAW MATERIALS
+Yarn (tons)	
+Polyester goods (tons)	
+
+758	727	 947	664
+670	531	 346	341
+
+TRANSPORT
+Proportion of transport by sea (%) 	
+
+98.5	99.1	 75.4	68.6
+
+PRODUCT LABELLING
+Proportion Oeko-Tex (%)	
+Proportion EU Ecolabel (%)	
+
+80
+40
+
+ENVIRONMENTAL DATA UAB SCANDYE
+Data regarding UAB Scandye’s environmental impacts are found on page 11 of this report.
+
+17
+
+NOTES: MEASURING METHODS AND BASIS OF CALCULATIONS
+
+Accounting policies
+This CSR and environmental report was prepared in compliance with the requirements of the EMAS regulation. Information in the report is based
+on data from ongoing internal and external readings and reports under the environmental management system. The environmental report includes both absolute quantities and key figures.
+Historical data
+Pre-2009/10 data are not included because the earlier data include production. A picture comparable with the present impacts will thus not be
+obtained if these data are included. Production was finally outsourced in May 2009 to UAB Scandye.
+Key indicators
+The reporting of key data follows EMAS-III recommendations to express the value A (the total annual input/impacts in the area in question), the
+value B (the total annual output) and the value R (the ratio between A and B).
+Energy
+When converting m3 of district heating to kWh, a cooling of 35ºC is used. The calculation of emissions of CO2 for Aalborg uses the environment
+declaration issued by Aalborg Fjernvarme in 2012. The district heating used is primarily waste heat from the production of electricity. The proportion of electricity from renewable sources is based on information in Energinet.dk’s 2012 General Declaration on Electricity. Emissions related to
+the production of electricity are based on Energinet.dk’s Environment Declaration on Electricity for Green Accounts. Emissions of NOx and CH4
+are not included as the quantities emitted are judged to be insignificant.
+Waste water
+Waste water emissions in Aalborg equal the purchased quantity of public potable water.
+Waste
+Waste recorded does not include construction and metallic waste from renovation of buildings and machinery.
+Site use
+Data for site use derive from the Ministry of Housing, Urban and Rural Affairs’ register. The undeveloped area consists of a park area bordering
+the stream which was a premise for the chosen location in 1851.
+Consumption of raw materials
+The stated consumption of raw materials includes waste during production, which was approximately 5%. Commodities are also included.
+Transport
+The transport breakdown into sea and air for goods produced in China is calculated on the basis of invoices for carriage. The breakdown is calculated on the basis of the transports’ total weight in kg. Transport is computed by calendar year and does not follow the financial year. This
+means that the figure computed for 2011/12 indicates data from 2012. The figure computed for 2012/13 is thus not the final result for the year,
+and it could still change.
+Product labelling
+The proportion of labelled products is calculated by computing the total number of products in Gabriel’s standard range on 1.10.2013 relative to
+the total number of products labelled with either the EU Ecolabel or Oeko-Tex.
+		
+H1	
+H1	Allotment garden 	
+		
+Kærby – light industry	
+Kærby – residences 	
+K.P.till.2.33	
+
+B1	R1		
+Kærby	Frydendal
+
+Day	
+Monday-Friday	
+Saturday	
+Saturday	
+Sundays and holidays 	
+
+06.00-18.00	
+07.00-14.00	
+14.00-18.00	
+07.00-18.00	
+
+60	
+60	
+60	
+60	
+
+55	
+55	
+45	
+45	
+
+50	
+50	
+45	
+45	
+
+45	
+45	
+40	
+40	
+
+50
+50
+45
+45
+
+Evening	
+All days	
+
+18.00-22.00	
+
+60	
+
+45	
+
+45	
+
+40	
+
+45
+
+60	
+
+40	
+
+40	
+
+35	
+
+45
+
+60	
+55	
+
+40	
+55	
+
+40	
+50	
+
+35	
+55
+
+45
+
+Night	
+Monday-Friday	
+22.00-06.00	
+Saturday, Sunday
+and Holidays	
+22.00-07.00	
+Maximum noise level at night
+	 	
+
+The specified limit values for noise are based on the assumption that they will be observed within the following periods:
+The limit values for the day period 07.00-18.00 (06.00-18.00 Monday-Friday) must be observed within the noisiest eight-hour period.
+In the evening from 18.00-22.00, the limit values must be observed within the hour with the highest noise level.
+For the night period 22.00-07.00 (22.00-06.00 Monday-Friday), the limit values must be observed within the noisiest half hour.
+
+18
+
+CSR & Environmental Report 2012/13
+
+
+
+Auditor’s certificate
+
+DS Certificering A/S declares to have verified whether
+below mentioned company as indicated in the environmental statement of the organization
+
+Gabriel A/S
+Hjulmagervej 55
+9000 Aalborg
+
+Issued:
+
+2013.11.07
+
+EMAS environmental verifier:
+
+6003
+
+VAT no.:
+
+NACE Code:
+
+12721307
+
+13.92.10
+
+declares DS Certificering A/S, accredited for the scope
+(NACE Code) to have verified:
+
+Declaration
+635.0001
+
+whether the entire organization as indicated
+in the environmental statement of the organisation with registration number "DK000048" meet all requirements of Regulation
+(EC) No 1221/2009 of the European Parliament and of the Council of 25 November
+2009 on the voluntary participation by organizations in a community eco-management
+and audit scheme (EMAS)
+
+By signing this declaration, I declare that:
+
+Reference to the environmental statement:
+
+- the verification and validation has been
+carried out in full compliance with the requirements of Regulation (EC) No 1221/2009
+- the outcome of the verification and validation
+confirms that there is no evidence of noncompliance with applicable legal requirements
+relating to the environment
+- the data and information of the organization
+environmental statement, reflect a reliable,
+credible and correct image of all the organization activities, within the scope mentioned in
+the environmental statement.
+
+The environmental statement, dated
+06.11.2013, written in Danish
+
+Anders Lindgren
+Certification Manager
+
+DS Certificering A/S
+Kollegievej 6
+DK 2920 Charlottenlund
+Denmark
+
+Reference to the environmental management system:
+
+Environmental Management Manual for
+Gabriel A/S, Editon dated 23.09.2013
+
+DS Certificering A/S has verified this statement written in
+Danish and does not vouch for translations of the
+environmental statement into other languages.
+This document is not equivalent to EMAS registration.
+EMAS registration can only be granted by a Competent
+Body under Regulation (EC) No. 1221/2009.
+This document shall not be used as isolated information to
+the public
+
+19
+
+Gabriel A/S
+Holding A/S
+Hjulmagervej 55
+DK-9000 Aalborg
+Phone: +45 9630 3100
+www.gabriel.dk
+
+

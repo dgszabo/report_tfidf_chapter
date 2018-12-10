@@ -1,0 +1,672 @@
+CSR
+2009
+
+	 2	 Corporate Social Responsibility 2009
+
+Content
+
+Bavarian Nordic and Corporate Social Responsibility
+
+3
+
+Ratios
+
+4
+
+Corporate social responsibility policies	
+
+
+
+5
+
+Environment	 
+
+6
+
+Employees	
+
+
+
+8
+
+Suppliers	
+
+10
+
+Auditor’s report	
+
+11
+
+Reporting principles and practice	
+
+12
+
+		
+
+Corporate Social Responsibility 2009 	 3
+
+Bavarian Nordic and
+Corporate Social Responsibility
+Bavarian Nordic develops and manufactures innovative vaccines for
+the prevention and treatment of life-threatening diseases where
+there is a large medical need as yet unmet.
+
+The process, from early research on development and testing,
+to the production of the vaccines, is subject to thorough internal
+quality control and to strict external regulations of the health authorities. There are severe requirements and regulations for the
+finished product, and it is therefore critical for the company and
+its success that we have built-in responsibility for every stage of
+the process.
+As from the financial year 2009, companies are obliged to give
+an outline of their corporate social responsibility (CSR) under
+the Annual Accounts Act. Hence, Bavarian Nordic has prepared
+this report, which forms part of the Management Commentary
+as underwritten by the Board and Corporate Management on 9
+March 2010.
+We define our work on social responsibility on the basis of a
+number of interest groups and will initially focus on the environment, employees and suppliers. Eventually we will assess
+whether it is appropriate to involve other interest groups.
+Gathering existing objectives and policies in
+an overall strategy
+We have no formal overall policy on social responsibility, but
+for some years now we have worked on specific objectives and
+policies in a number of different yet relevant fields. The aim is to
+bring these goals and policies together in a comprehensive policy
+on CSR, which will become an integral part of the company’s
+overall strategy and which we shall look at regularly, and adjust
+if need be.
+
+1
+
+http://www.globalreporting.org
+
+The objectives we are working on are a natural extension of
+existing activities that are relevant to our social responsibility.
+We aim to ensure that all conditions reported on, directly or
+indirectly, are of relevant commercial importance to the future
+development of the company. The primary theme of our report is
+the environment, which is based on our research of the environment using the green accounts submitted since 2005, when
+the production facility in the Kvistgård came into use. Besides
+environmental issues, we have chosen to concentrate on matters
+relating to employees and suppliers.
+Structure of the report
+The preparation of the report is inspired by elements in the Global Reporting Initiative (GRI)1, which is a recognised framework
+for reports on sustainability. The GRI structure sets out principles
+and indicators used to measure and explain financial, environmental and social performances.
+Bavarian Nordic has offices and facilities in six different locations
+in the world, spread over four countries. Local differences in the
+requirements for and recording of statistics on environmental
+concerns, working hours, absences etc. make it a challenge to
+carry out a consistent, adequate and accurate reporting across
+the group of the areas we have chosen to include in the report.
+For this reason the 2009 report focuses primarily on our two largest facilities; Kvistgård in Denmark and Martinsried in Germany.
+We are continuously working on harmonising methods and
+principles to ensure quantifiable statistics for the entire group in
+the future.
+
+	 4	 Corporate Social Responsibility 2009
+
+Ratios
+
+	
+
+Total	
+
+Carbon Footprint (tCO2)	
+
+Kvistgård	
+
+Martinsried	
+
+Berlin	
+
+Mountain View	
+
+Washington	 Singapore
+
+2,543 	
+
+X	
+
+X	
+
+-	
+
+-	
+
+-	
+
+-
+
+Work accident rate*	
+
+15.0	
+
+X	
+
+X	
+
+X	
+
+X	
+
+X	
+
+X
+
+Absence (leave not included)	
+
+4.9%	
+
+X	
+
+X	
+
+X	
+
+-	
+
+-	
+
+-
+
+Average number of employees,
+full-time	
+
+340	
+
+177	
+
+101	
+
+26	
+
+30	
+
+4	
+
+2
+
+X = forms part of the ratio calculation
+* (Accidents per million man-hours)
+
+It has not been possible to integrate all company facilities in all
+ratio calculations, either due to data unavailability or because
+inventory methods vary from country to country. Therefore, we
+have in this first report chosen to focus primarily on our two
+
+largest facilities: Kvistgård (industrial manufacturing, quality laboratories, technical service and administration) and Martinsried
+(research and development), which account for more than 80%
+of all employees in the Group.
+
+		
+
+Corporate Social Responsibility 2009 	 5
+
+Corporate social responsibility policies
+
+Environmental policy
+In Bavarian Nordic we organise our vaccine production in a way
+which prevents the virus from escaping through the air, waste
+water, or other waste, into the surrounding environment. At
+Bavarian Nordic we continuously strive to improve our environmental efforts. Our objective is to:
+•	 promote environmental awareness and pollution prevention
+throughout the company
+•	 reduce our impact on the environment by:
+	 •	 developing and implementing environmentally-conscious
+processes
+	 •	 optimising the use of materials and energy
+	 •	 reducing emissions and waste
+•	 comply with environmental legislation and relevant
+requirements
+•	 gradually build up an environmental management system according to the principles of the ISO 14001 Standard.
+
+Working environment policy
+A healthy and safe working environment is important for the
+employees’ welfare and safety at work, and Bavarian Nordic therefore works systematically, targeting the mapping of both the
+physical and the psychological working environment - with the
+aim of taking the necessary preventive measures to the benefit
+of both the individual employee and the company as a whole.
+The objectives for the overall working environment policy are to:
+•	 promote awareness of occupational health and safety practices
+for all employees as part of their daily work, and work towards
+proactive solutions to potential problems
+•	 meet safety regulations and relevant requirements
+•	 gradually develop a management system to facilitate the
+proactive safety work
+Supplier policy
+Bavarian Nordic has comprehensive procedures to ensure that
+suppliers meet the high quality standards we require, and we
+carry out inspection visits with the individual suppliers to ensure
+compliance with these requirements. At present we do not have
+a policy for our suppliers in relation to social responsibility, but it
+is our objective to include guidelines for social responsibility in
+our future relationship with them. These guidelines will form the
+basis of our policy on the social responsibility of our suppliers.
+
+	 6	 Corporate Social Responsibility 2009
+
+Environment
+
+The environment plays a major role in Bavarian Nordic and has
+been an important focus for the company ever since the establishment of the production facility in Kvistgård. In designing the
+plant in Kvistgård the company focused on reducing environmental impact, and the company has since worked to introduce
+cleaner technologies through the development and adaptation
+of technology already in use, including the reduction of the
+environmental impact by reducing energy consumption and use
+of accessory agents.
+
+print’), which details the emission of greenhouse gases (C02) of
+the company’s two largest facilities in Kvistgård and Martinsried.
+
+Since the initial operation of the production facility in 2005, we
+have published the ‘Green Accounts’ once a year. These give an
+outline of the environmental conditions in the company, including, among other things, an inventory of energy and water consumption and emissions and waste at the Kvistgård facility. The
+green accounts are compiled according to order by the Danish
+Ministry of the Environment and can be found on the company
+website.
+
+The first real mapping of energy consumption took place at our
+facilities in Kvistgård, Denmark, and Martinsried, Germany, which
+house research and quality laboratories, administration and
+production. In total, these two facilities engage around 80% of
+all employees in Bavarian Nordic.
+
+From the year 2009 we have decided to integrate parts of the
+green accounts in the corporate social responsibility report. To
+this end, we have developed a climate account (‘Carbon foot-
+
+Carbon footprint
+The company’s climate account, ‘Carbon footprint’, has been
+calculated for 2009 and will be included in the corporate social
+responsibility report in the future. The climate account presents
+the company’s energy consumption and resulting emissions,
+expressed in tonnes of CO2, and covers several GRI indicators.
+
+Up to now, Bavarian Nordic has not established a proper target
+for reducing its C02 emissions, but is working on reducing future
+relative emissions. Since the company expects an increase in
+production at the facility in Kvistgård over the coming years, and
+has not at present compiled the CO2 emissions for all the group's
+facilities, it is expected that total emissions for the coming years
+
+Carbon Footprint
+Release of greenhouse gases (tCO2)	
+
+Kvistgård	
+
+Martinsried	
+
+Total
+
+Direct emissions			
+Heating 	
+
+881	
+
+93	
+
+974
+
+Fugitive emissions	
+
+6	
+
+0	
+
+6
+
+Transport (vehicles)	
+
+60	
+
+8	
+
+69
+
+Indirect emissions			
+Purchased electricity	
+Purchased heating	
+Purchased refrigeration	
+Total emission of greenhouse gases (tCO2)	
+tCO2: Tonnes CO2 or equivalent gases
+
+1,200	
+
+294	
+
+1,494
+
+0	
+
+0	
+
+0
+
+0	
+
+0	
+
+0
+
+2,148	
+
+395	
+
+2,543
+
+		
+
+will exceed 2009. Nevertheless, the company is currently working
+on optimising production processes and therefore expects that
+relative emissions in the future will be lower than in 2009.
+The total emission of greenhouse gases in 2009 was approx.
+2,500 tonnes of CO2 equivalents, corresponding to emissions from
+around 400 average households2.
+The largest sources of emissions from the Kvistgård facility
+are electricity consumption, followed by combustion of natural
+gas for heating. Electricity is used for ventilation, refrigeration
+compressors, process equipment, refrigerators and freezers, air
+compressors, office equipment and lighting. Natural gas is used
+for heating and steam production.
+
+Objective: In 2010 we aim to
+include more group facilities
+when calculating the group’s
+CO2 emissions.
+
+2
+
+Danish Ministry of Climate and Energy, Pöyry Energy Consulting
+
+Corporate Social Responsibility 2009 	 7
+
+	 8	 Corporate Social Responsibility 2009
+
+Employees
+Over the past few years, Bavarian Nordic has transformed itself from
+a pure research and knowledge-based business into a fully integrated
+company with its own production, employing a vast number of
+professional groups.
+The composition of employees has changed significantly, a development which places great demands on the company – forcing it to constantly adapt itself to be able to develop and attend
+to the individual employee's qualifications and interests in the
+best possible way.
+
+The company systematically applies itself to the working environment, continuously mapping it through workplace assessments. Against this background, relevant measures for improvement are set out and prioritised in an action plan, with the aim
+of implementing improvements on a continuing basis.
+
+As a modern research enterprise, we are an innovative business
+and as such always capable of attracting talented employees.
+Employees, and their knowledge, are the company’s most valuable asset, and obviously we have a great responsibility towards
+them. Our responsibility is not only to ensure the safety and
+wellbeing, and the provision of individually-tailored challenges
+for each and every one of our employees, but is also a responsibility to encourage the social interactivity between employees
+and employee groups.
+
+In 2009, the areas of effort in Kvistgård have been focused on
+the improvement of cleaning procedures, conditions of meetingrooms and the dining area, and draught nuisance in administrative areas.
+
+At Bavarian Nordic we place focus on wholeness and aim at
+ensuring a good and healthy balance between work and leisure
+time. In Kvistgård, all employees are covered by health insurance, which secures fast and professional help and treatment in
+private hospitals, appointments with psychologists, chiropractors
+and physiotherapists etc., should the need arise.
+At the workplace we hold seminars on stress management, and
+we have been actively engaged for several years in dialoguebased interviews with employees who have prolonged absences
+due to sickness. These interviews ensure a fast, but gentle and
+individually-focused return to work.
+Social activities are an important component of a balanced
+life. Backed by the management, an active employee club in
+Kvistgård currently launches new initiatives to meet the various
+interests of the employees.
+A safe and good working environment
+We must always ensure that employees can perform their work
+without risking life or limb, and we are continuously working on
+optimising safety at work. In 2009 we had 9 minor accidents, corresponding to an accident rate of 15.03 for the entire company4. In
+2008, the accident rate among Danish companies was 25.15.
+Out of the 9 accidents, 7 of them occurred among employees
+in production. These are primarily minor injuries, which do not
+relate to the execution of the job, and only one employee had
+more than 3 days’ related absence.
+3
+
+The accident rate expresses the number of accidents per million man-hours
+
+4
+
+The number applies to the entire Bavarian Nordic group
+
+Areas of effort for Kvistgård in 2010 are as follows:
+•	 Carrying out regular working environment inspections
+•	 Uncomfortable working postures in production group, QC group
+and engineering group
+•	 Noise Survey of working conditions and action plan if necessary
+•	 Investigation of fall injuries and action plan if necessary
+
+Objective: Our objective remains to minimise the number
+of accidents at work through
+preventive measures, with special focus on the areas where
+most accidents occur.
+Absence
+In 2009, the overall absence in Bavarian Nordic reached an
+average of 10 days per employee, equivalent to an absence rate
+of 4.9%6, which is lower than the average for the pharmaceutical
+industry, which lies at 6.7% (2008 figures)7.
+At present, the registration of absences at the company's various locations is not standardised across the group. These local
+differences mean that the overall picture of registered absences
+is unclear. The aim for 2010 is to develop uniform guidelines and
+to implement an effective system for the registration of absences
+across the group, so in 2011 we shall have one standardised
+system.
+
+5
+
+Confederation of Danish Industry, Accidents at work, Business statistics 2009
+
+		
+
+Objective: In the coming years,
+the aim of the company is to
+develop uniform guidelines and
+implement an effective system for registration of absences
+across the group.
+Personal and organisational development
+Development opportunities are not only important to ensure
+recruitment and retention of qualified employees, but also mean
+that the employees can realise their full potential - thereby ensuring the company's competitiveness.
+It is imperative that our employees have the necessary tools
+to solve tasks in a competent manner, now and in the future.
+We have annual employee development interviews which we
+
+6
+
+Includes employees in Kvistgård, Martinsried and Berlin.
+
+7
+
+Confederation of Danish Industry, Absence statistics, 2009
+
+Corporate Social Responsibility 2009 	 9
+
+follow up on and adapt according to current needs. Naturally, we
+comply with the high standards of ongoing education and the
+updating of qualifications under trade regulations, national laws
+and agreements, but our objective does not state a number of
+training hours per employee. For us the objective is that employees and managers, as a minimum, have the competency to apply
+for, and get, their own jobs – at any time.
+
+Objective: We will explore the
+possibility of setting up a central system for registration of
+activities relating to continuing
+education and updating of
+qualifications.
+
+	10	 Corporate Social Responsibility 2009
+
+Suppliers
+As an integral part of Bavarian Nordic's policy on social responsibility, we
+wish to develop a set of guidelines for our relationship with suppliers of
+raw materials.
+
+In accordance with Good Manufacturing Practice (GMP) and
+Bavarian Nordic’s existing supplier management, all suppliers
+of raw materials are subject to inspections (audits), before final
+agreements are concluded. Thus the company is well positioned
+to influence the suppliers' own commitment to socially responsible activities.
+Today, looking at conditions relating to social responsibility is not
+a part of the already comprehensive inspections that take place,
+but will be integrated into future reviews of both existing and
+new suppliers.
+It is our objective in 2010 to establish assessment criteria for
+our suppliers. In 2011 we will integrate the principles of social
+responsibility into the purchasing function on the basis of these
+assessment criteria. The aim is to have a data base that can
+form the basis for reporting of supplier conditions in the annual
+report for 2011 (Spring 2012). This will ensure that the guidelines
+become an important integral part of our relationship with sup-
+
+pliers. The intention is to implement the new guidelines in the
+assessment of all relevant and major suppliers.
+On the basis of these assessments, Bavarian Nordic can subsequently indicate where improvements are needed in order to
+encourage a "best practice" approach in close cooperation based
+on communication and education.
+
+Objective: In 2010, we wish to
+set a goal of establishing a
+system to assess suppliers of
+raw materials in relation to
+social responsibility, including
+environmental conditions.
+
+		
+
+Corporate Social Responsibility 2009 	 11
+
+Auditor’s report
+To the Group management of Bavarian Nordic A/S
+
+We have performed a review of Bavarian Nordic’s report on corporate social responsibility 2009 (“the Report”). The purpose of
+our review was to submit a statement here on. The management
+of the company is responsible for the Report. Our responsibility is
+to provide a conclusion based on our review of the Report.
+The performed review
+We have performed our review in accordance with the Danish
+auditing standard on assurance engagements (“RS 3000 Assurance engagements other than audits or reviews of historical
+financial information”). It has been our purpose to obtain limited
+assurance that the data at Group level presented in the Report
+are in accordance with the described reporting practice and
+information reported to headquarters from production sites and
+other business units. By agreement we have reviewed data at
+Kvistgaard on a sample basis, but we have not reviewed the data
+at other production sites and business units.
+Our review is based on an evaluation of risk of material errors.
+We have evaluated the reporting practice and analyzed correlations with the company’s activities. The review is limited to first
+
+of all include inquiries from management and employees as well
+as analytical procedures, and a limited level of assurance is thus
+lower than the assurance which would have been obtained if we
+had performed an audit.
+Conclusion
+During our review, nothing came to our attention that caused
+us to believe that the data at Group level overall are not in accordance with the described reporting principles and practice and
+information reported from production sites and other business
+units.
+Copenhagen, 9 March 2010
+Deloitte
+Statsautoriseret Revisionsaktieselskab
+Preben J. Sørensen
+State-authorised Public Accountant
+
+	12	 Corporate Social Responsibility 2009
+
+Reporting principles and practice
+
+The CSR report has been prepared in accordance with the Annual
+Accounts Act, which requires companies to give an outline of
+their corporate social responsibility
+The preparation of the report is inspired by elements in the Global Reporting Initiative (GRI), which is a recognised framework
+for reports on sustainability. The GRI structure sets out principles
+and indicators used to measure and explain financial, environmental and social performances. The GRI framework is not a
+check list, but we use it as inspiration in our continued reporting
+process.
+The reporting scope has been defined by a principle of materiality. Thereby we strive to include the most significant issues, where our company directly or indirectly impacts on the
+surroundings. Our production is one of the primary sources of
+environmental impact from our company. Through the Carbon
+Footprint calculation included in this report, and our green accounts which are published once a year, we aim for transparency
+in our reporting on environmental issues.
+Our production and derived activities (quality control etc.) are
+also the primary consumer of raw materials, and thus we regard
+it as relevant to include the supply chain in our report. Today,
+looking at conditions relating to social responsibility is not a part
+of the already comprehensive inspections that take place, but
+will be integrated into future reviews of both existing and new
+suppliers.
+Being the first CSR report from Bavarian Nordic, it has not been
+possible to integrate all company facilities in all ratio calculations,
+either due to data unavailability or because inventory methods
+vary from country to country. Therefore, we have in this first
+report chosen to focus primarily on our two largest facilities in
+Kvistgård and Martinsried. With almost 180 employees, Kvistgård
+accounts for more than half of all the Group’s employees and
+covers our industrial manufacturing facility, quality laboratories,
+technical service and administration. Martinsried is our centre
+of research and development and employs approximately 100
+employees.
+
+Carbon Footprint
+The Carbon Footprint has been calculated using the standard
+and recommendations for calculating a company’s total set
+of greenhouse gas emissions, issued by the Greenhouse Gas
+Protocol Initiative . This includes the six gases designated in the
+Kyoto Protocol: CO2, CH4, N2O, HFCs, PFCs and SF6 and is expressed
+in equivalent tons of carbon dioxide. The emission sources are
+divided into three scopes, that include direct emissions from activities controlled by the company (scope 1), emissions from use
+of electricity (scope 2) and indirect emissions from products and
+services (scope 3). According to the recommendations, companies should separately account for and report on scopes 1 and 2
+at a minimum, and this is what we have done in this report.
+
+Establishing a base
+We have calculated the total carbon emission from our facilities
+in Kvistgård and Martinsried with regard to establishing a base
+for four different types of emission:
+Consumption of natural gas and oil
+The figure is based on the current consumption according to
+monthly readings. Greenhouse gas emission from combustion
+of fossil fuels is calculated on the basis of an average emission
+factor.
+Refrigerant leakage
+This is calculated leakage from refrigeration systems according to
+the refill log. Greenhouse gases included in this statement cover
+the six gases designated in the Kyoto Protocol: CO2, CH4, N2O,
+HFCs, PFCs and SF6.
+Electricity consumption
+Consumption of electricity based on meter readings at the end
+of 2009. Greenhouse gas emission from electricity consumption
+is calculated on the basis of specific emission factors from the
+energy supplier and an average emission factor for production of
+electricity in Germany.
+Mileage
+The figure is derived from petrol station receipts and covers both
+company owned as well as leased vehicles. Greenhouse gas
+emission is calculated on the basis of an average fuel specific
+emission factor for ordinary cars in Denmark and Germany.
+Absence
+Reports of absence for 2009 cover only Bavarian Nordic’s employees in Kvistgård, Martinsried and Berlin, and include records of
+employees' own absences due to illness, sick children, hospital
+visits and admissions and absences due to work accidents. Leave
+of absence, including maternity leave is not included in the calculation.
+When calculating the absence rate, the following is applied: the
+average annual number of full-time employees, multiplied by
+the number of workdays, divided by the number of total days of
+absence.
+Accidents
+The report on accidents at work covers the whole Bavarian
+Nordic group and includes accidents which result in more than 1
+day's absence.
+When calculating the accident rate, the following is applied: the
+total number of man-hours in the group in 2009, calculated on
+the basis of the average annual number of full-time employees,
+multiplied by the number of annual man-hours. Holidays are not
+included.
+
+

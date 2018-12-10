@@ -1,0 +1,931 @@
+CSR REPORT
+2015
+
+CONTENTS
+
+Making a Difference	
+3
+A Word From Our CEO	
+4
+Built on Science, Driven by People	
+5
+Caring for the Environment	
+7
+Product Safety	
+8
+Suppliers	8
+Business Ethics	
+9
+Human Rights	
+9
+Independent Auditor’s Report 	
+10
+Statement on Social Performance	
+11
+Statement on Evironmental Performance – GLOBAL	
+12
+Statement on Environmental Performance – PRODUCTION	 14
+
+About the report
+This Statutory Report on Corporate Social Responsibility (CSR), cf.
+sections 99a and 99b of the Danish Financial Statements Act, is part
+of the management’s review in the 2015 Annual Report and covers
+the financial period January 1 - December 31, 2015.
+
+Bavarian Nordic A/S
+Hejreskovvej 10A
+DK-3490 Kvistgaard
+Denmark
+
+Phone: +45 3326 8383
+Fax: +45 3326 8380
+CVR no: 16 27 11 87
+www.bavarian-nordic.com
+info@bavarian-nordic.com
+
+3
+
+CSR REPORT 2015
+
+MAKING A DIFFERENCE
+Once a biotech company, now a fully integrated vaccine manufacturer. The story of Bavarian Nordic goes back more than 20
+years, and demonstrates the success of transforming science and
+technology into a sustainable business, focused on the development, manufacturing and commercialization of vaccines for the
+prevention of life-threatening infectious diseases and the treatment of cancer. The real transformation though has taken place
+over just the last few years where we have built our manufacturing facility, capable of producing millions of vaccines that could
+potentially help protect and save people’s lives, thus contributing
+to a healthier and safer society. That is a worthy mission.
+And while pursuing our strategy and objectives to remain sustainable and grow our business further through continued investments in research and development, we recognize the importance of protecting the world around us. This commands us to
+work and act responsibly in all matters, and we aim to do this by:
+•	manufacturing high-quality vaccines.
+•	working actively and systematically to minimize our impact
+on the environment and climate.
+•	maintaining an active dialog with our stakeholders on a local,
+national and global level.
+•	actively supporting and respecting human rights and labor
+standards.
+•	providing a safe and healthy working environment for our
+staff that includes opportunities for professional and personal
+development.
+•	communicating our CSR policy to external collaboration partners, including our suppliers.
+•	conducting business according to highest ethical standards.
+
+These are our overall CSR policies, which are further specified in
+relevant areas throughout this report, in which we particularly
+focus on employees, environment, products, suppliers, business
+ethics and human rights.
+Our CSR goals are driven by rational operational measures that
+support our general strategy of creating a profitable business. We
+are constantly working to identify areas that are crucial to our
+business and are expected to have a positive impact on performance in working towards the CSR targets set.
+To ensure that our CSR initiatives are carried out timely and efficiently and to improve transparency on the activities, we have
+established a CSR steering committee comprised of senior representatives in the Company, in addition to a CSR working group comprised of representatives from human resources, investor relations &
+communications and our environmental, health and safety specialist.
+Scope of our reporting
+In order to always focus on business relevance, we selected
+the areas to be reported based on a principle of materiality: we
+endeavored to include the most important ways in which our
+company has either a direct or an indirect impact on the world
+around us. Our manufacturing facility in Kvistgaard, Denmark,
+where also our headquarters are located, is one of the chief
+sources of our environmental impact, and we seek to provide a
+high degree of transparency by calculating our carbon footprint
+and reporting environmental data from this site. Furthermore it
+represents almost two thirds of our employees. In addition, we
+have included research and development facilities in Germany
+and the USA. Taken together, these facilities employ more than
+99% of our staff and are by far responsible for the greatest share
+of our consumption of energy and raw materials.
+
+NON-FINANCIAL KEY FIGURES
+For an explanation of the 2015 figures in the table, see relevant sections on environment and employees.
+	
+
+2015	2014	2013	2012	2011	
+Included
+
+Carbon footprint, global, tCO2	
+3,103	3,543	3,345	3,662	3,813	
+K, H, M, C
+Carbon footprint, production, tCO2	
+2,178	2,417	2,102	2,319	2,565	
+K
+Carbon footprint, index per batch (1)	
+65	85	
+109	53	53	 K
+Absence rate	
+3.9%	3.1%	3.9%	4.3%	3.7%	 K, M
+Accidents, number per million
+8.2	1.4	2.6	3.8	4.0	 All
+working hours (2)	
+Employee turnover	
+21.6%	13.8%	19.6%	13.7%	14.1%	
+All
+Number of employees, year-end	
+426	437	440	461	452	 All
+K: 	Kvistgaard, Denmark (headquarters, production, laboratories)
+H: 	Hoersholm, Denmark (leased laboratory facilities - included in 2013)
+M:	Martinsried, Germany (offices and laboratories)
+C: 	Mountain View, California, USA (offices and laboratories). Relocated to Redwood City, California (only offices) during 2015
+(1)
+	2009: Index 100
+(2)
+	Accident rates for 2011-2012 have been calculated on a different basis than accident rates for 2013-2015. See reporting practice on page 11
+
+4
+
+CSR REPORT 2015
+
+A WORD FROM OUR CEO
+This is our seventh annual sustainability report, in which we account for our environmental and social performance. During this
+period, there has been no such thing as business as usual. While
+our strategy and objectives have been clearly defined throughout, we have had new opportunities and challenges arising every
+year, requiring us to adjust procedures and processes. Navigating in this ever-changing environment can be difficult, but with
+highly skilled and adaptive personnel, we have come through
+with great success, also in 2015.
+Apart from the initial year of reporting (2009), where we were
+only in the early stages as a manufacturing company, mostly
+performing process development and testing, 2015 showed the
+lowest climate impact thus far - despite increased manufacturing activities. We have managed again to optimize our processes
+which in combination with a better utilization of resources have
+reduced our overall emissions as well as our water consumption.
+The health and safety of our employees remain areas of high
+priority, and it is highly satisfying that we again did not record
+any serious work-related accidents in 2015. While our overall
+staff has decreased slightly over the past few years, our staff in
+manufacturing has increased as result of introducing multiple
+products. To mitigate the potential risks associated with the new
+and highly complex processes, we have recently strengthened
+
+our safety organization. Furthermore, we have an exhaustive
+training program for new employees, as well as ongoing training
+of our safety organization to ensure a proactive work that aims to
+reduce risks of accidents related to our working processes. Therefore, we also see a better and more reliable reporting of health
+and safety issues, causing an unfortunate turn in the statistics for
+2015, but at the same time providing us a better starting point
+for addressing these issues going forward.
+In 2016, we will maintain a high activity level in production to
+support various new clinical trials in infectious diseases and cancer. We will also continue our preparations for commercial manufacturing of PROSTVAC, and finally, we will continue production
+of smallpox vaccine for the U.S. Government. While manufacturing thus seems to have become an important asset to Bavarian
+Nordic, this multitude of activities has only been made possible
+due to dedication from our scientists in the discovery and development of novel vaccines. The recent validation of our vaccine
+technology through partnerships with Janssen and Bristol-Myers
+Squibb will only help to keep our scientists busy in the continued
+discovery of new vaccines.
+
+Paul Chaplin
+President & CEO
+
+5
+
+CSR REPORT 2015
+
+BUILT ON SCIENCE, DRIVEN BY PEOPLE
+Our employees are our most valuable asset and as an innovative,
+knowledge-based company, it is important for us to attract and
+retain highly qualified workers. For this reason, we want to offer
+our staff a good and inspiring working environment that also
+provides them with development opportunities.
+At Bavarian Nordic, we strive to maintain a good work-life balance, and we focus on employee health, safety and job satisfaction. We systematically map both the physical and psychosocial
+working environment so that the necessary preventive steps
+can be taken, for the benefit of both individual employees and
+the Company as a whole. We do so in a close dialogue between
+management and employees through a number of established
+committees, including a works council and a health and safety
+committee.
+The aims of our general health and safety policy are	
+
+•	to regularly train and educate our safety employee representatives, so they are updated on the relevant topics and
+legislation.
+•	to secure well-functioning and well informed workers and
+safety committees on all relevant sites.
+•	to promote awareness of health- and safety-related behavior in all employees as part of their day-to-day work and to
+produce proactive solutions to potential problems.
+•	to gradually develop a safety management system to support
+this proactive safety work.
+Being a global organization, we support a diverse, accommodating and non-discriminatory working environment where,
+regardless of gender, age, ethnicity, physical impairment, religion
+or sexual orientation, we all aspire to the same objectives. Likewise, we share the same corporate values: Excellence, Agility and
+Dedication that have become an important foundation of how
+we work to achieve both our corporate as well as individual goals
+
+2015 DEVELOPMENTS
+Maintained absence rate below our targets
+The absence rate was 3.9% in 2015 (2014: 3.1%) and thus we met
+our target to maintain the rate below 4%. Although we note that
+absence rates among other companies (see figure 1) continue to
+decline, we maintain our target of 4%. Due to the strict regulations that apply to our production which help to ensure our product safety, we do not allow our production employees to return
+to work before they have recovered fully after illness, and hence
+we expect a higher absence rate than that of other companies.
+Occupational accidents still below industry averages
+In 2015, the occupational accident frequency rate was 8.2 accidents per million working hours compared to 1.4 in 2014. A total
+of 6 occupational accidents were reported, all of which were
+minor injuries resulting in limited absence from work (average
+absence of 2.7 days compared to 3.0 in 2014 per accident).
+While we remain committed to a high level of safety throughout the organization, the recent expansion of our manufacturing facility - which has increased the number of workers in our
+production - has resulted in more preventative measures as well
+as more complex procedures, thus requiring additional training of
+both new and skilled employees. We furthermore believe that an
+increased focus on our working environment, in particular over
+the last year, has led to a higher and more reliable reporting of
+accidents than previously. The improved reporting not only helps
+to address actual accidents, but also helps to define additional
+preventative measures based on reporting of near-misses and
+observations.
+
+While the accident frequency rate remains below industry averages, we maintain a high focus on a safe and healthy working
+environment in order to identify all relevant measures that help
+to prevent future accidents.
+Higher employee turnover due to reorganization
+The employee turnover rate was 21.6% (2014: 13.8%), which is
+higher than we would normally expect. This was mainly due to
+consolidation of our research activities, which led to a reduction
+of staff in California.
+Gender diversity at management levels
+We maintained an equal distribution of men and women in managerial positions with 51% and 49% respectively. Managers and
+executives are selected exclusively on the basis of their qualifications and not on gender. This ensures that we can provide equal
+opportunities if candidates for the positions have the required
+professional background.
+Increased focus on psychosocial working environment
+In addition to the physical working environment, we have
+increased our attention on the psychosocial working environment in 2015. As a small organization, we must be adaptable to
+changes and opportunities, and therefore it is important that we
+prepare our employees for managing through changes in order
+to strengthen their job satisfaction and improve their general
+wellbeing. Specifically, we have conducted training of our works
+committee and our health and safety committee, offering them
+tools for managing change and stress for both themselves and
+
+6
+
+CSR REPORT 2015
+
+their colleagues. In addition, voluntary meetings for all employees have been held in Kvistgaard, focusing on changes in a
+positive perspective.
+Training of safety representatives
+The employee representatives and the employer representatives
+in the safety organization are offered training regularly in topics
+related to risk prevention and risk management. In 2015, the
+safety organization received training in handling of incidents in
+addition to the supplementary mandatory occupational health
+training that included machinery, specific risks, changes, and
+work planning. Furthermore, priority was given to members of
+the safety organization for participation in basic fire training.
+
+Employee development and training
+We continued our focus on training and education and on upgrading our employee’s qualifications. Some of our production
+operators have received in-house training from other departments as part of the transition to multi-product manufacturing.
+Some have been trained for work in cross-organizational projects,
+and others have completed external training as plant operators.
+These initiatives help to increase quality of work as well as job
+satisfaction, thereby retaining good employees. Furthermore,
+we initiated training for teams with a specific focus on their tasks
+(e.g. working on the roof, working with hazardous chemicals).
+
+2016 GOALS AND ACTIVITIES
+In 2016, we plan to conduct workplace assessments focusing on
+the physical and psychosocial working environment at our Kvistgaard site, as required by Danish law. In continuation of these
+assessments, the general wellbeing among all employees will be
+evaluated globally based on a survey. This extra survey will assist
+us in detecting any areas that could be improved and helps us
+decide what concrete measures should be made in the future to
+ensure our employees job satisfaction.
+Leadership training
+The leadership training which was planned for managers in Germany and Denmark in 2015 has been postponed to 2016.
+Occupational accidents
+In 2016, we aim to reduce the number of accidents compared to
+2015, to register at least 20 near-misses and/or observations, and
+to analyze all accidents and at least 75% of the near-misses and
+observations.
+Absence
+We will work to maintain the annual absence rate due to illness
+below 4%. New procedures and tools as well as increased reporting to managers aims to ensure a more proactive approach for
+working with absence among employees.
+Gender diversity at management levels
+We will work to maintain an equal gender distribution among the
+managers of the Group.
+
+Sickness absence
+Absence rates
+5
+4
+3
+2
+1
+0
+
+  Bavarian Nordic 
+  All companies
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+Comparison with DI (Confederation of Danish Industry) statistics for
+sickness absence (all companies).
+
+Occupational accidents
+Frequency
+20
+15
+10
+5
+0
+
+  Bavarian Nordic 
+  All companies
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+Number of accidents per million working hours compared with DI
+(Confederation of Danish Industry) statistics for work-related accidents
+(all occupational groups).
+
+7
+
+CSR REPORT 2015
+
+CARING FOR THE ENVIRONMENT
+Our primary impact on the environment and climate is derived
+from our production, and we endeavor to reduce our environmental and climate impact by improving our manufacturing
+efficiency and processes in order to optimize energy consumption
+and to minimize emissions and waste. Our vaccine production
+facilities and procedures are designed so that viruses do not
+escape into the indoor or outdoor environment through the air or
+in our wastewater.
+
+systematization in our organization, driven by our environment,
+health and safety specialist who proactively works to ensure that
+we comply with our own guidelines as well as environmental
+protection regulations and relevant requirements as defined
+by the authorities. In general, we consider informal visits by
+the authority as a benefit for information sharing and joint risk
+perception as we may become aware of issues that we did not
+consider before. We furthermore encourage environmentally
+aware behavior throughout the Company as a whole.
+
+We wish to be at the forefront of environmental work and we
+seek to be so by maintaining a high degree of compliance and
+
+2015 DEVELOPMENTS
+Compared to 2014, we increased our production activities in 2015,
+mainly as result of the production of MVA-BN Filo (Ebola vaccine),
+where we produced and delivered bulk vaccine corresponding to
+more than 2 million doses to our partner Janssen. In addition, we
+produced vaccines for multiple clinical trials as well as continued
+our preparations for commercial manufacturing of PROSTVAC.
+Lower overall climate impact despite increased activities
+Despite increased manufacturing activities, our total CO2 emissions were 12% lower compared to 2014, and our relative climate
+impact from production dropped by impressive 24% as result of
+further optimizations as well as better utilization of resources.
+Energy
+We basically met our relative energy consumption target (KWh
+per m2) at our Kvistgaard facility in 2015. As planned, we conducted a complete energy screening of the site during the year,
+which helped to identify additional energy-saving initiatives
+which will be further assesses during 2016.
+Reduced consumption and discharge of water
+We further reduced the water consumption in the production by
+more than 2%. This was a result of the energy monitoring system
+that was installed at our Kvistgaard facility a few years ago,
+which allows us to identify inappropriate consumption of energy
+and water.
+1: GHG Protocol, http://www.ghgprotocol.org/calculation-tools/faq, “Scope 3:
+Other indirect emissions, such as the extraction and production of purchased
+materials and fuels, transport-related activities in vehicles not owned or controlled by the reporting entity, electricity-related activities (e.g. T&D losses) not
+covered in Scope 2, outsourced activities, waste disposal, etc.”
+
+Minimized environmental impact from raw materials
+We have continued to optimize the consumption of raw materials and additives in the production, again reducing the relative
+consumption on largely all parameters, including chemicals,
+compared to 2014.
+Increased efforts to reduce indirect emissions
+While our carbon footprint calculation does not include other
+indirect emissions as defined in scope 3 by the GHG Protocol1,
+we have increased our focus on outgoing transportation of
+goods. This has resulted in increasingly choosing transportation
+with couriers through consolidated distribution hubs instead of
+dedicated cars, when allowed by security requirements. This
+aims to reduce our indirect climate impact and we will continue
+to evaluate opportunities to make further reductions.
+Waste
+The amount of waste was higher than compared to 2014, which
+is largely attributed to higher manufacturing activity. While we
+did not meet our target to increase the relative share of waste
+for recycling, we have continued to identify areas of improvement throughout 2015. Specifically, we have worked to identify
+additional waste fractions that would allow us to increase recycling through proper disposal of separated waste.
+
+8
+
+CSR REPORT 2015
+
+2016 GOALS AND ACTIVITIES
+Energy
+Based on the energy screening in 2015, we expect to prioritize
+the initiatives that were identified, and possibly implement the
+first projects during 2016 to support our goal of maintaining our
+annual relative energy consumption (KWh per m2) at the Kvistgaard facility below our target.
+
+Chemicals
+While we have not set specific targets for reduction of the relative consumption of chemicals used in our production, we continue to optimize our processes, thereby seeking to improve our
+production economy. A part of these efforts is to avoid any unnecessary use of chemicals and additives. We thereby also seek
+to minimize the amount of waste requiring special treatment.
+
+Waste
+We will continue our work to increase recycling of waste from our
+production. Specifically, we have entered into an agreement with
+a new waste carrier, able to handle the additional waste fractions
+which we identified through 2015.
+
+PRODUCT SAFETY
+Product safety is crucial in our business, and quality and responsibility are important elements of our corporate culture. Vaccine
+development is a highly regulated area, in which a strong regulatory regime of inspections and approvals sets a high standard for
+all areas of our disciplines.
+We work according to Good Manufacturing Practice (GMP), which
+are rules laid down by the European and U.S. health authorities.
+GMP includes strict requirements with respect to a product’s
+
+traceability, quality and purity, which means that quality management is built into each step of the manufacturing process.
+To-date, we have produced and delivered more than 30 million
+vaccine doses. Even though largely all these vaccines have been
+stockpiled for emergency use and thus not have benefited end
+users yet, we and our partners have conducted various clinical trials of our product candidates in more than 10,000 people,
+demonstrating that our vaccine platform technology has a favorable safety profile.
+
+SUPPLIERS
+In accordance with both GMP and our own supplier management system, we perform a risk assessment of all new suppliers
+of critical materials and equipment used in our production and
+laboratories. Suppliers whose products are considered to have a
+material impact on our products’ quality and safety, will undergo
+an initial audit, followed by an evaluation every third year as a
+minimum, either by way of a visit or a questionnaire, depending on the situation. The structured audit process helps us to
+gauge the quality and CSR mindset of our suppliers. Through
+
+this close collaboration with our key suppliers, we are gaining a
+deep insight into their business processes and capabilities, which
+provides important learnings for optimizing our own processes.
+Our suppliers of raw materials are mainly located in North
+America and the EU, which are areas with a high level of regulation of social and environmental parameters in place.
+
+9
+
+CSR REPORT 2015
+
+BUSINESS ETHICS
+Bavarian Nordic prioritizes business ethics as a natural part of its
+underlying business concept. We want to be seen as credible
+and reliable by all our stakeholders.
+Our Code of Business Conduct and Ethics (“the Code”) describes
+the ethical requirements for all employees’ and the Board of Directors’ behavior in relation to customers, employees, shareholders, society, suppliers and partners. The Code includes the rules
+and regulations in the Foreign Corrupt Practices Act (FCPA) and
+the Truth in Negotiations Act (TINA) that are relevant in connec-
+
+tion with the Company's business transactions and negotiations
+in the United States.
+All employees have received training in the Code, and new
+employees will receive training as part of their introductory program. Thus the observation of the Code rests upon all employees
+and all employees are encouraged to report issues, concerns and
+any breach of the Code. For this purpose, the Company has established a whistleblower system (“Ethics Hotline”).
+
+HUMAN RIGHTS
+As outlined in our general CSR policy, we support and respect human rights. Our compliance in this area is widely covered by our
+health and safety policies as well as observance of the national
+labor laws in the countries in which we operate. While the scope
+of these efforts is mainly directed towards our own employees,
+we seek to conduct our business with third parties in compliance
+with the principles as well. As part of our procurement policies,
+
+we perform regular audits of our suppliers, whom we encourage
+to act responsibly in all matters relating to CSR, including observing international human rights. Also, we conduct our clinical trials
+in a manner that recognizes the importance of protecting the
+safety of and respecting the research participants. We do this by
+applying the highest legal, ethical and scientific standards, in addition to complying with applicable laws and regulations.
+
+2015 DEVELOPMENTS
+As planned, we undertook a screening in 2015 to assess how our
+business may impact human rights. We used a Human Rights Impact Assessment Tool to assess our level of compliance with the
+United Nations Guiding Principles on Business and Human Rights
+(UNGP), in particular focusing on the UNGP guidelines for a policy
+commitment, a due diligence process, and processes to enable
+the remediation of adverse impacts caused directly or indirectly
+by the Company.
+
+2016 GOALS AND ACTIVITIES
+In 2016 we will further evaluate the assessment results, in
+particular focusing on potential adverse impacts, in order to
+determine if additional actions are required.
+
+The result of this initial screening indicates no actual adverse
+impacts and only few potential adverse impacts on human
+rights. The potential adverse impacts are primarily related to lack
+of knowledge or lack of documentation or formalized processes.
+There already seems policy commitment and processes to a
+certain degree within the three pillars mentioned above.
+
+10
+
+CSR REPORT 2015
+
+INDEPENDENT AUDITOR’S REPORT
+ON KEY PERFORMANCE INDICATORS
+
+TO THE EXECUTIVE BOARD
+OF BAVARIAN NORDIC A/S
+
+ethical requirements, professional standards and applicable legal
+and regulatory requirements.
+
+We have reviewed Bavarian Nordic A/S’ 2015 CSR report (“the
+report”) to provide limited assurance that the key performance
+indicators in Tables 1-5 have been prepared in accordance with
+the reporting practice described.
+
+We have complied with the independence and other ethical
+requirements of the Code of Ethics for Professional Accountants
+issued by FSR - Danish Auditors (Code of Ethics for Professional
+Accountants), which are based on the fundamental principles
+of integrity, objectivity, professional competence and due care,
+confidentiality and professional behaviour.
+
+The report covers Bavarian Nordic’s international activities from 1
+January to 31 December 2015.
+Management’s responsibility
+The Management of Bavarian Nordic is responsible for collecting,
+analysing, aggregating and presenting the information in the
+report, ensuring that data are free from material misstatement,
+whether due to fraud or error.
+Bavarian Nordic’s reporting practice contains Management’s
+defined reporting scope for each data type. The criteria for the
+reporting practice can be found on page 11-14 in the report.
+Auditor’s responsibility
+Our responsibility is to express a limited assurance conclusion
+based on our engagement with Management and in accordance
+with the agreed scope of work.
+We have conducted our work in accordance with ISAE 3000, Assurance Engagements Other than Audits or Reviews of Historical
+Financial Information and additional requirements under Danish
+audit regulation to obtain limited assurance as to whether the
+data are free from material misstatement.
+Deloitte Statsautoriseret Revisionspartnerselskab is subject to
+International Standard on Quality Control (ISQC) 1 and, accordingly, applies a comprehensive quality control system, including
+documented policies and procedures regarding compliance with
+
+Copenhagen, 7 March 2016
+Deloitte
+Statsautoriseret Revisionspartnerselskab
+Central Business Registration No. 33 96 35 56
+
+Martin Faarborg 			
+State Authorised Public Accountant	
+
+Helena Barton
+Lead Reviewer
+
+A limited assurance engagement is substantially lighter in scope
+than a reasonable assurance engagement in relation to both of
+the risk assessment procedures, including an understanding of
+internal control, and the procedures performed in response to the
+assessed risks. Consequently, the level of assurance obtained in
+a limited assurance engagement is substantially lower than the
+assurance that would have been obtained had we performed a
+reasonable assurance engagement.
+Considering the risk of material error, we planned and performed
+our work to obtain all information and explanations necessary
+to support our conclusion. We performed our on-site reviews
+at Bavarian Nordic’s Head Office in Kvistgaard in February 2016.
+Our work has included interviews with key functions in Bavarian
+Nordic, inquiries regarding procedures and methods to ensure
+that data and information have been presented in accordance
+with the reporting practice. We have assessed processes, tools,
+systems and controls for gathering, consolidating and aggregating data, performed analytical review procedures, and tested
+data prepared for consistency with underlying documentation.
+Conclusion
+Based on our work, nothing has come to our attention that
+causes us to believe that the key performance indicators in Tables 1-5 in the CSR report for 2015 are not prepared in accordance
+with the reporting practice described.
+
+11
+
+CSR REPORT 2015
+
+STATEMENT ON SOCIAL PERFORMANCE
+EMPLOYEES
+Reporting practice
+Unless otherwise stated, the presented figures cover all Bavarian
+Nordic sites and employees.
+Absence
+Absence data includes recorded staff sick days and child sick
+days for employees in Denmark and Germany only. Absence is
+generally not recorded in U.S. companies and thus our offices in
+Redwood City, CA and Washington DC do not contribute to the
+statistics. Leave – also parental leave – is not included in these
+figures. The absence rate was calculated by dividing the total
+number of days of absence by the product of the average number of full-time employees for the year and the number of work
+days in the calendar year.
+
+Employee turnover rate
+Employee turnover rate is calculated as the number of employees
+that left their jobs divided by the average number of employees
+over the course of the year.
+Occupational accidents
+Occupational accident data relates to accidents resulting in at
+least one day of absence, in addition to the day of injury. Absence rates for 2011-2012 presented in the non-financial key figures on page 3 were based on accidents resulting in at least one
+day of absence inclusive of the day of injury. The accident rate
+is the number of occupational accidents per one million working
+hours; vacation days are not included.
+
+Table 1					
+2015	
+2014
+Employees, total (year-end)					
+426	
+437
+Employees, FTE average over the year					
+420	
+421
+Distribution:				
+Denmark					
+260	
+239
+Germany					
+113	
+109
+USA					
+46	
+72
+Other					1	1
+		
+Absence					
+3.9%	
+3.1%
+Employee turnover					
+21.6%	
+13.8%
+		
+Employee groups		
+Ratio of men to women in management and executive positions				
+51% / 49%	
+47% / 53%
+Employees under collective agreement					
+65	
+52
+Other employees (white-collar workers with or without management responsibility)			
+361	
+385
+Occupational accidents		
+Occupational accident frequency (number/million working hours)				
+Occupational accidents in numbers					
+Average absence per occupational accident in days					
+
+8.2	
+6	
+2.7	
+
+1.4
+1
+3.0
+
+12
+
+CSR REPORT 2015
+
+STATEMENT ON ENVIRONMENTAL
+PERFORMANCE – GLOBAL
+CARBON FOOTPRINT
+Reporting practice
+Carbon footprint calculations are based on the standards and
+recommendations of the Greenhouse Gas Protocol Initiative1 for
+calculating an organization’s total carbon emissions. This includes
+the six greenhouse gasses addressed by the Kyoto Protocol –
+CO2, CH4, N2O, HFCs, PFCs and SF6 – calculated in metric tons of
+CO2 equivalents. Emissions sources are divided into three scopes:
+direct emissions from activities under the Company’s control
+(Scope 1), emissions from the consumption of electrical power
+(Scope 2) and indirect emissions from products and services
+(Scope 3). Our reporting covers Scope 1 and Scope 2, thus fulfilling the minimum recommendations.
+We have calculated the total carbon emissions from the following of our locations:
+•	
+•	
+•	
+•	
+•	
+
+ vistgaard, Denmark (headquarters, production, laboratories)
+K
+Hoersholm, Denmark (leased laboratory facilities - included
+in 2013)
+Martinsried, Germany (offices and laboratories)
+Mountain View, California, USA (offices and laboratories)
+Redwood City, California, USA (offices – included in 2015).
+
+In 2015, our employees in California relocated from Mountain
+View to Redwood City due to reorganization and transfer of our
+cancer research activities to Europe. Thus we no longer have
+laboratory facilities in California.
+
+Our calculations include the following four different types of
+emissions:
+Natural gas and oil
+This figure is based primarily on current consumption as measured by monthly meter readings. Greenhouse gas emissions from
+the combustion of fossil fuels are calculated on the basis of an
+average emission factor.
+Fugitive emissions
+Fugitive emissions include CO2 from the use of dry ice and CO2
+gas plus emissions of greenhouse gasses from cooling and refrigeration systems. This figure is calculated on the basis of receipts
+from purchase of said items.
+Electricity
+Electrical power consumption is based on meter readings recorded at the end of the year. The calculation of greenhouse gas
+emissions from electrical power consumption is based on specific
+emission factors provided by the power company and an average
+local emission factor for generation of power.
+Mileage (in km)
+This figure is calculated on the basis of receipts from gasoline
+companies and includes motor vehicles owned or leased by the
+Company. Greenhouse gas emissions are calculated on the basis
+of an average fuel-specific emission factor for ordinary cars in
+Denmark and Germany.
+
+Table 2					2015	2013
+Units in t CO2		
+Carbon footprint, global					
+
+3,103	
+
+3,543
+
+Direct emissions (Scope 1)		
+Heating					
+935	
+981
+Power generation					0	0
+Fugitive emissions					
+19	
+88
+Transport of employees (motor vehicles)					
+65	
+46
+Transport of raw materials (internal)					
+1	
+1
+Indirect emissions (Scope 2)		
+Electrical power, purchased					
+1,983	
+2,280
+Heating, purchased					
+101	
+147
+Cooling, purchased					0	0
+		
+Carbon footprint, Production					
+2,178	
+2,417
+Carbon footprint, Production, index per batch produced					
+65	
+85
+
+1: www.ghgprotocol.org
+
+13
+
+CSR REPORT 2015
+
+Emission factors
+In calculating CO2 emissions, specific emission factors based on
+emissions type and geographic location were used. CO2 emissions from the combustion of natural gas, oil, gasoline, diesel
+fuel and liquefied pressurized gas and from fugitive emissions
+were deemed to have a general global effect with minor local
+differences. Emission factors from these sources are based on
+data provided by the Danish Energy Agency.
+
+based on factors for Denmark as a whole. Emission calculations for electrical power at Mountain View and Redwood City
+are based on emission factors provided by The Pacific Gas and
+Electric Company. Emission calculations for electrical power
+purchased in Germany are based on general German emission
+factors ; emission calculations for district heating purchased in
+Germany are based on emission factors published by local district
+heating companies.
+
+However, natural gas emission factors for Mountain View and
+Redwood City are based on figures from The Pacific Gas and
+Electric Company , a provider of natural gas and electricity in
+California.
+
+Indexed CO2 emissions per batch produced.
+CO2 emissions per manufactured batch are indexed to 2009 and
+calculated on the basis of the number of batches manufactured
+during the calendar year.
+
+Emissions for locally purchased electricity were determined on
+the basis of local conditions. Emission factors for Kvistgaard are
+
+14
+
+CSR REPORT 2015
+
+STATEMENT ON ENVIRONMENTAL
+PERFORMANCE – PRODUCTION
+WATER AND WASTEWATER
+Reporting practice
+Water consumption is calculated for the entire Kvistgaard facility,
+including laboratories and administrative functions. An analysis
+of wastewater is made once a year. The figures in Table 3 for
+phosphorous, nitrogen, carbon and chlorides are based on these
+measurements. However, due to an assumed error in the measurement of chloride in 2015, the amount disposed of has been
+estimated based on the purchased amount of sodium chloride.
+Process wastewater is heat-inactivated, cooled and pH adjusted
+before being discharged into the public sewer system. Inactivation is a procedure that ensures that all virus remnants are rendered 100% harmless, and the system is checked for operational
+problems before discharge. This treatment ensures that the
+discharged wastewater complies with the requirements in the
+Company's permit to use the municipal sewer system.
+
+Table 3	
+
+2015	2014
+
+Sanitary wastewater (m3)	
+3,637	3,735
+Process wastewater (m3)	
+7,660	7,856
+Total wastewater (m3)	
+11,298	11,591
+		
+Phosphorus (kg)	
+13	
+25
+Nitrogen (kg)	
+127	
+191
+Total organic carbon (kg)	
+613	
+602
+Chlorides (kg)	
+8,970	
+8,642
+
+WASTE
+Reporting practice
+Waste volumes are calculated for the entire Kvistgaard facility
+and are based on annual statements from approved waste carriers handling ordinary and hazardous waste.
+Waste consists primarily of disposable process equipment and
+egg waste. Disposable process equipment includes production
+bags, tubing and other disposable equipment. The bags are autoclaved and sent to incineration; the egg waste is also sent to
+incineration. Hazardous waste includes organic solvents, acids,
+bases, hazardous clinical waste, etc.
+
+Table 4	
+
+2015	2014
+
+Total waste (metric tons)	
+145	
+117
+- of which hazardous waste
+(metric tons)	
+16	
+13
+		
+Breakdown of waste disposed of:		
+Incineration	
+79%	78%
+Recycling	
+9%	11%
+Special treatment	
+11%	
+11%
+
+INCIDENTS OF NON-COMPLIANCE WITH ENVIRONMENTAL PROTECTION LEGISLATION
+Reporting practice
+Violations of terms are reported for the entire Kvistgaard facility.
+They are discussed with the relevant authorities in order to assess the need for potential corrective actions.
+In August 2015, a measuring of chloride in the wastewater was
+in excess of the permit value. The measured value is believed
+to be inaccurate, either due to it being a peak-value or a failed
+analysis. A new measuring did not reveal violations of the terms
+and as the chloride levels initially measured were significantly
+higher than could be justified from the purchased amount of
+
+Table 5	
+Violations of terms, etc.
+and accidental discharge	
+Complaints	
+
+2015	2014
+
+0	
+1
+0	0
+
+sodium chloride, the reported value has been adjusted. See Table
+3 for additional information
+
+
